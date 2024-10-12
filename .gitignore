@@ -1,2 +1,3 @@
-/ragtest/.env
 **/*.env
+/ragtest/.env
+
