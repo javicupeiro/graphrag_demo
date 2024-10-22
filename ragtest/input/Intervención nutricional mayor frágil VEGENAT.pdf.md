@@ -1,0 +1,1902 @@
+# Envejecimiento y Nutrición
+
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+[Logo of Sociedad Española de Geriatría y Gerontología]
+
+Sociedad Española de Geriatría y Gerontología
+---
+# Envejecimiento y Nutrición
+
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+### AUTORES:
+
+| Autor | Cargo e Institución |
+|-------|---------------------|
+| Dr. Manuel Antón Jiménez | Geriatra. Hospital Ntra. Sra. de la Montaña. Cáceres |
+| Dr. Iñaki Artaza Artabe | Geriatra. Centro Sociosanitario Igurco Orue. Amorebieta, Vizcaya |
+| Dr. José Antonio López Trigo | Geriatra. Presidente de la SEGG |
+| Dra. Encarna Martín Pérez | Geriatra. Hospital San Juan de Dios. León |
+| Dr. Nicolás Martínez Velilla | Geriatra. Hospital de Navarra. Pamplona |
+| Dra. Pilar Matía Martín | Endocrinóloga. Hospital Clínico Universitario San Carlos. Madrid |
+| Dr. Roberto Petidier Torregrossa | Geriatra. Hospital Universitario de Getafe. Madrid |
+---
+The image provided appears to be entirely blank or white. There is no visible content, text, diagrams, or any other discernible information on this page. Therefore, I cannot provide any markdown translation or description of content, as there is nothing to transcribe or describe.
+---
+# Envejecimiento y Nutrición
+
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+### Índice
+
+| Contenido | Página |
+|-----------|--------|
+| Prólogo | 5 |
+| Concepto de anciano frágil e indicadores de fragilidad | 7 |
+| Fragilidad y dependencia | 19 |
+| Fragilidad cognitiva y nutrición | 31 |
+| Valoración nutricional en ancianos frágiles | 43 |
+| - Valoración nutricional en el hospital | 43 |
+| - Valoración nutricional en residencias y en la comunidad | 55 |
+| Evidencias de las estrategias nutricionales en pacientes frágiles | 67 |
+---
+© SOCIEDAD ESPAÑOLA DE GERIATRÍA Y GERONTOLOGÍA
+Príncipe de Vergara, 57-59. 28006 Madrid
+Tel: 914 111 707. Fax: 915 647 944
+www.segg.es • segg@segg.es
+
+Coordinación editorial:
+
+IMC INTERNATIONAL
+MARKETING &
+COMMUNICATION, S.A.
+
+Alberto Alcocer, 13, 1.º D. 28036 Madrid
+Tel.: 91 353 33 70. Fax: 91 353 33 73
+www.imc-sa.es • imc@imc-sa.es
+
+Reservados todos los derechos. Ninguna parte de esta publicación puede ser
+reproducida, transmitida en ninguna forma o medio alguno, electrónico o mecánico,
+incluyendo las fotocopias, grabaciones o cualquier sistema de recuperación de
+almacenaje de información, sin permiso escrito del titular del copyright.
+
+ISBN: 978-84-7867-254-7
+Depósito Legal: M-14359-2014
+---
+# PRÓLOGO
+
+Uno de los temas capitales de la Geriatría actual, que ha motivado y motiva cientos de artículos y trabajos, es, qué duda cabe, la fragilidad. Entendiéndola, según se describe en el reciente consenso que encabeza JE Morley, como un estado clínico en el que se produce un aumento de la vulnerabilidad de una persona para desarrollar una mayor dependencia y/o mortalidad cuando se expone a un factor estresante, nos interesa especialmente porque supone un triple reto para el clínico. Reto en cuanto a su prevención, a la detección precoz y a la implementación de medidas correctoras, por ser una condición potencialmente reversible. Estas medidas correctoras incluyen: actividad física, soporte calórico-proteico adecuado, manejo de las necesidades de vitamina D y, por último, el control adecuado de las enfermedades médicas detectadas, con una especial atención en la polifarmacia.
+
+Fruto del interés de la Sociedad Española de Geriatría y Gerontología por todos los aspectos relacionados con la fragilidad es la creación de diversos grupos de trabajo y comités de expertos en torno a este síndrome geriátrico. Como consecuencia del buen hacer del Comité de Expertos en Nutrición en Ancianos Frágiles podemos disfrutar de la publicación de Pautas de intervención nutricional en anciano frágil.
+
+Por medio de esta publicación queremos aportar una primera contribución a esa llamada a la acción que encabeza el título del consenso arriba referido (Frailty consensus: a call to action).
+
+A lo largo de las siguientes páginas, siguiendo el estilo de la serie "Envejecimiento y Nutrición", encontramos buena parte de las claves del abordaje nutricional del paciente mayor en situación de fragilidad. Así, desde un primer acercamiento al concepto sindrómico del término, pasando por las bases de la valoración del mismo, llegaremos hasta las evidencias sobre el abordaje terapéutico.
+
+La valoración del estado nutricional en situaciones de fragilidad en los distintos niveles asistenciales, comunitario, institucional y hospitalario, ocupa un importante papel en la guía, teniendo como cierto que el sentar las bases del estado nutricional permitirá establecer un plan nutricional idóneo para prevenir o tratar la condición de paciente frágil.
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+Todo lo anterior lleva a un capítulo destinado a abordar estrategias nutricionales sobre las evidencias actuales y ofrecernos recomendaciones sobre nutrientes específicos, patrones dietéticos y recomendaciones en el uso de suplementos orales.
+
+A buen seguro será de mucha utilidad para el lector revisar los contenidos de esta publicación fruto de la rigurosa labor de los expertos, geriatras y endocrinólogos, que han dedicado generosamente su trabajo para facilitarnos el conocimiento de esta situación compleja que puede comprometer la autonomía de una buena parte de nuestros pacientes. Un profundo agradecimiento a los autores en nombre de la Sociedad Española de Geriatría y Gerontología.
+
+También nuestro agradecimiento a Vegenat, empresa comprometida con la alimentación y nutrición de las personas mayores, por su amigable patrocinio de la serie "Envejecimiento y Nutrición" que la Sociedad dedica al área de la Nutrición.
+
+Por último, un deseo; que tras la lectura de este libro hagamos buena la sentencia de Hipócrates de Cos: "Que tu medicina sea tu alimento, y el alimento tu medicina".
+
+Dr. José Antonio López Trigo  
+Presidente de la Sociedad Española de Geriatría y Gerontología
+
+6
+---
+# Concepto de anciano frágil e indicadores de fragilidad
+
+Dr. Nicolás Martínez Velilla
+
+## INTRODUCCIÓN
+
+Debido al rápido envejecimiento poblacional, los nuevos modelos de atención sanitaria y social van a sufrir importantes cambios adaptativos. Dentro de estos cambios, uno de los conceptos que mayor importancia va a tener es el de la fragilidad, entendido como la consecuencia de un deterioro relacionado con el envejecimiento en múltiples sistemas fisiológicos, que condiciona una situación de vulnerabilidad. Aunque las bases teóricas del concepto de fragilidad parecen tener una base común y un contexto interrelacionado, la traslación de dichos conceptos al paciente que vemos habitualmente no está claramente definida, e incluso la propia definición y el diagnóstico plantean importantes dilemas conceptuales. La propia Unión Europea ha insistido en la importancia de la definición del concepto de fragilidad debido a su vinculación con un alto consumo de recursos comunitarios, residenciales y hospitalizaciones, y asumiendo que una intervención precoz en personas frágiles mejoraría la calidad de vida y disminuiría los costes de los cuidados.
+
+Una revisión sistemática que analizaba 31 estudios de fragilidad física en mayores de 65 años estimó una prevalencia del 4 al 17% (media 9,9%), con una prevalencia mayor si se tenía en cuenta la fragilidad psicosocial. Las mujeres tenían el doble de probabilidad que los hombres (dato confirmado en población europea) y la prevalencia se incrementaba de forma significativa con la edad. En el caso de los mayores de 85 años la fragilidad está presente entre el 25 y el 50%, condicionando un mayor riesgo de eventos adversos, como caídas, institucionalización, discapacidad o muerte, convirtiendo este síndrome geriátrico en uno de los más importantes a nivel preventivo, diagnóstico y eventualmente terapéutico.
+
+En España, la prevalencia actual es aproximadamente de 800.000 mayores frágiles y más de 3 millones de prefrágiles, y nos encontramos a la cabeza de Europa en investigación en fragilidad, con datos de seis cohortes longitudinales como son el Estudio de Envejecimiento Saludable en Toledo, el Estudio FRADEA, el Estudio Octabaix en Barcelona, los Estudios Peñagrande y Leganés en Madrid y el Estudio FRALLE en Lleida.
+
+## DEFINICIÓN E HISTORIA DEL CONCEPTO DE FRAGILIDAD
+
+Ya en 1968 un artículo de Onon en el British Medical Journal vinculaba envejecimiento y fragilidad, y describía los pacientes como "confusos, inquietos e inconti-
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+nentes". Posteriormente Vaupel, en 1979, describió fragilidad como la tendencia de algunas personas a vivir durante más tiempo, presentándola como una característica individual, fijada desde la juventud. De manera divergente, los equipos de geriatras de esa época, influenciados por la búsqueda de los pacientes que más podrían beneficiarse de una intervención especializada, empezaron a ver la fragilidad como un aumento del riesgo individual de resultados clínicos adversos.
+
+En 1988, Woodhouse definió anciano frágil como aquel mayor de 65 años que dependía de otros para actividades de la vida diaria y a menudo eran institucionalizados. Gillick lo definió como "individuos ancianos debilitados que no pueden sobrevivir sin una ayuda sustancial de otros", destacando las consecuencias sociales de la fragilidad. Otras definiciones de fragilidad, enfatizando en la evaluación de intervenciones geriátricas especializadas, son las de Clayman, que describió anciano frágil como "ni demasiado bien ni demasiado discapacitado", o la de Winograd, que clasificó a los pacientes hospitalizados en subgrupos de ancianos independientes, frágiles y aquellos que estaban demasiado discapacitados para ser definidos como frágiles. Este mismo autor propuso la consideración de los principales síndromes geriátricos (delirium, caídas, inmovilismo, incontinencia y úlceras por presión) como situaciones marcadoras de fragilidad. Spirduso y Gillam-Macrae's relacionaron el concepto de fragilidad en ancianos con la caracterización por parte de Bortz de la condición humana como necesariamente frágil y que incluía enfermedad y desuso como otras dos dimensiones de la fragilidad humana. Más recientemente Buchner y Wagner revisaron de forma integral el concepto de fragilidad y lo definieron como "pérdidas de reserva fisiológica que incrementan el riesgo de discapacidad". Consideraron la fragilidad como un estado precursor de discapacidad y dependencia de otros para la realización de las actividades de la vida diaria. En su opinión, esta situación precursora tenía tres componentes fundamentales: alteración del control neurológico, disminución del rendimiento mecánico y deterioro del metabolismo energético.
+
+### 8
+
+Brocklehurst recurrió al equilibrio entre los componentes psicosociales y biomédicos para elaborar un modelo dinámico de fragilidad, que incluía muchos factores que permiten que una persona viva en la comunidad. Por un lado estaban los elementos que facilitaban la independencia en la comunidad (salud, capacidad funcional, actitud positiva hacia la salud y otros recursos, como los sociales, espirituales, financieros y medioambientales). Por otro lado estaban los elementos que amenazaban la independencia (enfermedad, discapacidad, dependencia de otros en las actividades de la vida diaria y sobrecarga de los cuidadores). De esta aproximación se derivaba un modelo dinámico de fragilidad, según el equilibrio inestable entre los elementos descritos. Otros autores, como Brown, sugieren que la fragilidad es un estado exclusivamente dependiente de la función motriz que puede identificarse con solo realizar pruebas de función física.
+---
+En un intento de estandarizar y hacer operativa una definición de fragilidad Fried propuso un fenotipo clínico de fragilidad, y lo definió como la situación de incremento de vulnerabilidad para la resolución homeostática tras un acontecimiento estresante, lo cual aumenta el riesgo de resultados adversos, como delirium, caídas o discapacidad. Este concepto supone la alteración de varios sistemas fisiológicos interrelacionados y condicionados por un declive más acelerado de la reserva fisiológica respecto a ancianos no frágiles, con múltiples manifestaciones preclínicas y clínicas a partir de un punto umbral que marca la transición a la fragilidad de una manera no lineal y reversible.
+
+Los principales sistemas implicados son el sistema nervioso, el sistema endocrino, el sistema inmune y el sistema muscular esquelético. El término fragilidad está intrínsecamente relacionado con el concepto de sarcopenia (síndrome caracterizado por una pérdida progresiva de masa y fuerza muscular, asociada a resultados adversos) y con el de caquexia (síndrome metabólico complejo asociado a una enfermedad subyacente y caracterizado por una pérdida de músculo y posible de grasa).
+
+En los últimos años se han realizado varios documentos de consenso para intentar definir el concepto de fragilidad. En uno de ellos, siguiendo una metodología Delphi, se llegó al acuerdo de la necesidad de definir la fragilidad en un contexto clínico. Otras áreas en las que existía un 80% de acuerdo concluían respecto al concepto de fragilidad que es:
+
+- Un síndrome clínico.
+- No es sinónimo de discapacidad.
+- Supone un incremento de vulnerabilidad en el que un pequeño evento puede desencadenar un deterioro funcional.
+- Puede ser revertida o atenuada mediante intervenciones adecuadas.
+- Es muy importante su reconocimiento precoz por parte de los trabajadores relacionados con la salud, especialmente en Atención Primaria.
+
+Dadas las dificultades para llegar a un consenso respecto a la definición, y partiendo de los criterios que Rockwood previamente sugirió que debería tener una definición científica y trasladable a la práctica clínica (validez predictiva, validez de constructo y de contenido), surgieron numerosos modelos que cumplían con dichos requisitos, como los utilizados en el Cardiovascular Health Study, el Study of Osteoporotic Fractures, el Modelo de déficits, el modelo FRAIL, el SHARE-FI, el Vulnerable Elder Survey-13, el Tilburg Frailty Index o el Groningen Frailty Indicator.
+
+El último documento de consenso se gestó en Orlando (EE.UU.) en diciembre de 2012, en una conferencia auspiciada por la Asociación Internacional de Geriatría y Gerontología y gestada por asociaciones internacionales relacionadas con el envejecimiento. Este consenso definió el síndrome geriátrico de fragilidad física como un síndrome médico de causas y contribuyentes múltiples, caracterizado por pérdida de fuerza y resistencia, y disminución de la función fisiológica, que aumenta la vulnerabilidad individual para desarrollar dependencia o fallecer. El consenso alcanzado en
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+la definición insistía en que el modelo de fragilidad aplicado en una situación clínica es menos importante que el hecho de la utilización de un recurso validado y aplicado por un clínico apropiadamente entrenado. Además recomendaba que todos los mayores de 70 años, y aquellos con pérdida de peso mayor del 5% debido a enfermedades crónicas, debieran ser cribados para fragilidad, especialmente aquellos sin evidencia de discapacidad.
+
+## MODELOS DE FRAGILIDAD
+
+La fragilidad puede ser física, psicosocial o una combinación de ambas, y es una situación dinámica que puede mejorar o empeorar con el paso del tiempo. Los dos principales modelos de fragilidad física son el modelo "fenotipo" y el modelo de "déficits acumulativos".
+
+### Modelo del fenotipo de Linda P. Fried
+
+El modelo original parte de los estudios de la doctora Fried obtenidos de una análisis secundario de datos obtenidos de un estudio de cohortes prospectivos (el Cardiovascular Health Study) de 5.210 hombres y mujeres mayores de 65 años. Se estableció un fenotipo con cinco variables: pérdida de peso, estado de ánimo decaído, actividad física, velocidad de marcha y debilidad muscular (tabla 1). Los valores del quintil inferior se utilizaron para definir la presencia o ausencia de dichas variables. Se excluyeron los pacientes con enfermedad de Parkinson, ictus previo, deterioro cognitivo o depresión. Aquellos con tres o más de los cinco factores eran considerados como frágiles, aquellos con uno o dos factores eran considerados prefrágiles, y aquellos sin ningún factor eran considerados como no frágiles o robustos. El resultado mostró unos porcentajes de población del 7% de frágiles, 47% prefrágiles y 46% no frágiles. Se realizó un seguimiento a los 3 y 5 años para cuantificar movilidad, funcionalidad, caídas, hospitalización y mortalidad. Los pacientes clasificados como frágiles tenían mayor riesgo de dichos eventos, con una situación intermedia en los pacientes prefrágiles. La mortalidad a los 7 años fue del 12% para pacientes no frágiles, del 23% para prefrágiles y del 43% para los frágiles.
+
+Este trabajo inicial demostró la posibilidad de definir un fenotipo de fragilidad útil para la detección de población frágil de forma rutinaria, pero con limitaciones a la hora de trasladarlo a la práctica clínica habitual. Además, los cinco factores fueron seleccionados de manera casual del estudio de una cohorte prospectiva no diseñada para investigar fragilidad, y algunos factores muy importantes, como el deterioro cognitivo (situación clínica muy vinculada al deterioro funcional y la discapacidad), no fueron analizados como parte del fenotipo. El modelo de Fried tiene numerosas fortalezas: es clínicamente coherente, reproducible y vincula fragilidad a sarcopenia. Sin embargo, muchos ancianos vulnerables hospitalizados son incapaces de realizar
+---
+los test necesarios y no pueden ser estratificados según esta clasificación. La omisión
+de la cognición y situación afectiva de este modelo también es algo controvertido.
+
+## Tabla 1. Criterios para definir fragilidad de Linda P. Fried
+
+| Criterio | Descripción |
+|----------|-------------|
+| 1. Pérdida de peso | Pérdida de peso no intencionada mayor a 4,5 kg o mayor al 5% durante el último año. |
+| 2. Estado de ánimo decaído (ambas respuestas deben ser afirmativas) | a. En la última semana, ¿cuántos días ha sentido que todo lo que hacía era un esfuerzo?<br>b. En la última semana, ¿cuántas veces no ha tenido ganas de hacer nada? |
+| 3. Actividad física | Actividad semanal según el Minnesota Leisure Time Activity Questionnaire.<br>a. Gasto energético menor a 383 kcal/semana (hombres) (pasear 2:30 horas/semana).<br>b. Gasto energético menor a 270 kcal/semana (mujeres) (pasear 2 horas/semana). |
+| 4. Baja velocidad de la marcha | Puntos de corte estandarizados para andar 4,57 m, estratificados por sexo y altura.<br>Altura: Hombres ≤ 173 cm ...................... 7 s<br>         > 173 cm....................... 6 s<br>Mujeres ≤ 159 cm....................... 7 s<br>         > 159 cm....................... 6 s |
+| 5. Debilidad muscular | Fuerza de prensión de la mano según el índice de masa corporal y sexo.<br>a. Hombres: índice de masa corporal / Dinamometría manual<br>   ≤ 24 / ≤ 29 kg<br>   24,1-26 / ≤ 30 kg<br>   26,1-28 / ≤ 30 kg<br>   > 28 / ≤ 32 kg<br>b. Mujeres: índice de masa corporal / Dinamometría manual<br>   ≤ 23 / ≤ 17 kg<br>   23,1-26 / ≤ 17,3 kg<br>   26,1-29 / ≤ 18 kg<br>   > 29 / ≤ 21 kg |
+
+Fragilidad: se cumplen 3 o más criterios.
+Prefragilidad: se cumplen uno o dos criterios.
+No frágiles o robustos: no se cumple ningún criterio.
+
+## Modelo del déficit acumulativo de Ken Rockwood
+
+El Índice de Fragilidad (IF) se desarrolló como parte del Canadian Study of Health
+and Aging, estudio de cohortes prospectivo de 5 años de duración (n = 10.263),
+diseñado para investigar la epidemiología e impacto de la demencia en pobla-
+ción anciana de Canadá (edad media 82 años). Para definir fragilidad se evalua-
+ron 92 variables basales de síntomas, enfermedades y discapacidades. El IF era el
+simple cálculo de la presencia o ausencia de cada variable como una proporción
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+del total (por ejemplo, 40 déficits presentes de un total de 92 posibles arrojaba un IF de 0,43). La fragilidad se definía por tanto como el efecto acumulativo de los déficits individuales. Este modelo es consistente con el incremento de vulnerabilidad y fracaso homeostático de la capacidad de reserva mediante el acúmulo de déficits que, aunque de manera individual no suponen una amenaza evidente para la mortalidad, su acúmulo conjunto contribuye de forma significativa. Además, este modelo permite considerar la fragilidad como algo cuantificable más allá del concepto de presencia o ausencia. Un punto de corte de 0,67 parece identificar un umbral a partir del cual el acúmulo de déficits supone un alto riesgo de mortalidad.
+
+Estudios posteriores han conseguido reducir la cifra inicial de 92 variables a una cantidad de 30 sin pérdida de la capacidad predictiva, y han demostrado la capacidad predictiva de mortalidad e institucionalización del IF.
+
+## COMPARACIÓN DE LOS MODELOS FENOTIPO Y DÉFICIT ACUMULATIVO
+
+Ambos modelos muestran cierto solapamiento a la hora de identificar fragilidad y tienen una importante convergencia estadística. Este solapamiento permite avanzar en el debate acerca de la definición de fragilidad como un síndrome clínico. El IF (variable continua) ha demostrado en algunos estudios mayor capacidad en pacientes con fragilidad severa y moderada que el fenotipo de fragilidad (variable categórica).
+
+A pesar de las importantes diferencias entre ambos conceptos (tabla 2), existe una importante convergencia entre ambos modelos. Es evidente que ambos conceptos no pueden ser considerados como equivalentes. Su utilidad se centra en diferentes periodos de la evaluación de los riesgos individuales. Algunos autores sugieren la utilización secuencial de ambos, ya que ambos aportan una información clínica complementaria sobre el perfil de riesgo de un paciente.
+
+### Tabla 2. Principales diferencias entre el fenotipo de fragilidad y el índice de fragilidad
+
+| Índice de fragilidad | Fenotipo de fragilidad |
+|----------------------|------------------------|
+| Valoración global que incluye actividades de la vida diaria y enfermedades. | Signos y síntomas. |
+| Conjunto inespecífico de criterios. | Criterios predefinidos. |
+| Resultados individuales independientes de la situación funcional o la edad. | Resultados potencialmente restringidos a personas no discapacitadas. |
+| Fragilidad como acúmulo de déficits. | Fragilidad como un síndrome previo a la discapacidad. |
+---
+| Tabla 2. Principales diferencias entre el fenotipo de fragilidad y el índice de fragilidad (continuación) |
+|---|
+| Variable continua. | Variable categorizada en tres niveles: ro-busto, prefrágil y frágil. |
+| Es precisa una valoración clínica integral. | Puede obtenerse sin una valoración clínica integral inicial. |
+| Aproximación clínica mediante la valoración integral de la etiología; detección de situa-ciones clínicas de forma rutinaria. | Ninguna información sobre las causas etiológicas potenciales: fragilidad presente incluso en ausencia de enfermedades clínicamente establecidas. |
+
+## INDICADORES DE FRAGILIDAD Y HERRAMIENTAS DE IDENTIFICACIÓN
+
+La identificación de pacientes frágiles facilita la posible intervención y selección de aquellos que pueden beneficiarse de medidas preventivas o terapéuticas. Son necesarios instrumentos precisos, sencillos, válidos y reproducibles para identificar dichos pacientes. Además, estos instrumentos deben ser sensibles al cambio para permitir monitorizar la evolución o los resultados de intervenciones.
+
+### Cuestionarios estandarizados
+
+En una reciente revisión sistemática, se identificaron 20 métodos para la identificación de la fragilidad, generalmente basados en el fenotipo de fragilidad o en índice de fragilidad. Entre los instrumentos destacaban algunos, como el Frail elderly functional questionnaire, como una medida potencial de resultados para estudios de intervención en fragilidad porque era apropiado para utilizar por teléfono o mediante entrevista, es válido, seguro y sensible al cambio. También destacaban el indicador de fragilidad Groningen y el Tillburg como herramientas sencillas de identificación de pacientes frágiles (tabla 3).
+
+En poblaciones seleccionadas, como es el caso de pacientes oncológicos, una revisión sistemática de los métodos de cribado concluyó que de momento los instrumentos actuales de cribado de fragilidad no tenían suficiente potencia discriminativa para seleccionar pacientes que requieran una evaluación más profunda, y se aconsejaba mantener la valoración geriátrica integral como método de predicción de resultados en dicha población. Las herramientas que destacaban eran: el Groningen Frailty Index, el Vulnerable Elders'Survey-12, el Abbreviated comprehensive geriatric assessment, el Geriatric 8 y el Triage risk screening tool (estos dos últimos con la mejor sensibilidad para predecir fragilidad). Las herramientas con mayor sensibilidad de predicción de eventos adversos tenían escasa especificidad, y viceversa.
+---
+Envejecimiento y Nutrición
+PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+## Tabla 3. Componentes de otras escalas utilizadas en el diagnóstico de fragilidad
+
+| Escala de valoración de fragilidad de la International Academy on Nutrition and Ageing (IANA) |
+|-------------------------------------------------------------------------------------------|
+| Fatiga: ¿se siente cansado o fatigado? |
+| Resistencia: ¿puede subir un piso de escaleras? |
+| Aeróbico: ¿puede andar un bloque de pisos? |
+| Enfermedad: ¿sufre actualmente alguna enfermedad? |
+| Pérdida de peso: ¿ha tenido pérdida de peso recientemente? |
+
+| Escala del University Hospital of Leicester |
+|-------------------------------------------|
+| Edad: ≥ 70 años. |
+| Fractura (excluyendo fractura del cuello del fémur) con cualquier situación médica inestable. |
+| Delirium agudo o crónico. |
+| Institucionalización. |
+| Índice Waterlow > 25. |
+
+| Groningen Frailty Indicator |
+|----------------------------|
+| - ¿Puede llevar a cabo el paciente estas actividades sin ayuda?: compra, pasear, vestirse, ir al baño? |
+| - ¿Tiene el paciente problemas en la vida diaria debido a problemas de visión? |
+| - ¿Tiene el paciente problemas en la vida diaria debido a problemas auditivos? |
+| - ¿Durante el último año ha perdido el paciente mucho peso de forma no deseada? (3 kg en 1 mes o 6 kg en 2 meses). |
+| - ¿Toma el paciente 4 o más tipos de fármacos? |
+| - ¿Tiene el paciente alguna queja de su memoria o un diagnóstico conocido de demencia? |
+| - ¿Tiene el paciente sensación de vacío alrededor suyo, echa de menos gente, se siente abandonado o se ha sentido recientemente triste o ansioso? |
+
+| Indicador Tilburg de fragilidad |
+|--------------------------------|
+| - ¿Se siente usted físicamente sano? |
+| - ¿Ha perdido peso recientemente sin desearlo? |
+| - ¿Tiene problemas en su vida diaria por dificultades para andar? |
+| - ¿Tiene problemas en su vida diaria por dificultades para mantener el equilibrio? |
+| - ¿Tiene problemas en su vida diaria debido a problemas de audición? |
+| - ¿Tiene problemas en su vida diaria debido a problemas de visión? |
+| - ¿Tiene problemas en su vida diaria por poca fuerza en sus manos? |
+| - ¿Tiene problemas en su vida diaria por cansancio físico? |
+| - ¿Tiene problemas con su memoria? |
+| - ¿Se ha sentido triste durante el último mes? |
+| - ¿Se ha sentido nervioso o ansioso durante el último mes? |
+| - ¿Es capaz de manejar los problemas bien? |
+| - ¿Vive solo? |
+| - ¿Echa a veces de menos a personas alrededor suyo? |
+| - ¿Recibe suficiente apoyo de otras personas? |
+---
+| Tabla 3. Componentes de otras escalas utilizadas en el diagnóstico de fragilidad (continuación) |
+|---|
+| Escala de fragilidad de Edmonton |
+| - Test del reloj. |
+| - ¿Cuántas veces durante el año pasado ha ingresado en un hospital? |
+| - ¿Cómo describiría usted su salud? |
+| - ¿Con cuántas de las siguientes actividades necesita usted ayuda: preparación de la comida, compras, transporte, teléfono, labores domésticas, lavar ropa, manejo del dinero, manejo de fármacos? |
+| - Cuando necesita ayuda, ¿puede contar con alguien disponible? |
+| - ¿Utiliza 5 o más fármacos de forma habitual? |
+| - ¿Se le olvida alguna vez tomar la medicación? |
+| - ¿Ha perdido peso recientemente de tal forma que lo ha notado en la ropa que lleva? |
+| - ¿Se siente a menudo triste o deprimido? |
+| - ¿Tiene problemas para controlar la orina? |
+| - Test Up and Go. |
+| Escala FRAIL |
+| - Se siente agotado o cansado? o ¿Tenía usted un montón de energía? |
+| - Capacidad de subir un piso de escaleras. |
+| - Capacidad de andar 100 metros. |
+| - Antecedentes de: demencia o enfermedad de Alzheimer, angina o infarto cardiaco, artritis, depresión, asma, bronquitis o enfisema, diabetes, hipertensión, osteoporosis o ictus. |
+| - Pérdida de peso. |
+
+También existe una revisión de las herramientas de detección de fragilidad en el paciente quirúrgico, destacando que la valoración preoperatoria es una excelente ocasión de reconocer los pacientes frágiles, estratificar riesgos e iniciar intervenciones destinadas a optimizar los resultados quirúrgicos e incluso ayudar en el proceso de toma de decisiones. En la revisión se destacan algunos métodos de detección de fragilidad como: fuerza de prensión de la mano, velocidad de la marcha, el Edmonton Frailty Scale, el Fenotipo de fragilidad, el Comprehensive Assessment of Frailty Score o el Groningen frailty indicator. La Escala de fragilidad de Edmonton es un instrumento de valoración multidimensional que incluye el "Timed-up-and-go" y un test de deterioro cognitivo. Se hace en menos de 5 minutos y es válido, fiable y sencillo de utilizar, pero su exactitud diagnóstica no se ha estudiado.
+
+Respecto a las revisiones de instrumentos en Atención Primaria, se detectan numerosas escalas e índices, entre las que destacan el Gerontopole Frailty screening tool (http://www.frailty.net/frailty-toolkit/diagnostic-tools-3; acceso en marzo 2014), diseñado junto a médicos de Atención Primaria para obtener una herramienta de cribado sencilla, el Tilburg Frailty Indicator y el SHARE Frailty Index o el EASY-Care
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+Two-step Older persons Screening (EASY-Care TOS) (http://www.frailty.net/frailty-toolkit/diagnostic-tools-2; acceso marzo 2014).
+
+El último instrumento desarrollado para identificar fragilidad es la llamada Escala de Rasgo de Fragilidad (Frailty Trait Scale), que identifica siete dimensiones de la fragilidad: equilibrio energético-nutricional (índice de masa corporal, obesidad central y niveles de albúmina), actividad física (Physical Activity Scale for the Elderly), sistema nervioso (fluencia verbal y equilibrio), sistema vascular (índice brazo-tobillo), resistencia (test de la silla) y velocidad de marcha.
+
+Algunos instrumentos han sido ampliamente validados de forma individual fuera de cuestionarios estandarizados, como el test "Timed-up-and-go", el Short Physical Performance Battery (SPPB) (http://www.grc.nia.nih.gov/branches/leps/sppb/; acceso marzo 2014), la velocidad de marcha, la fuerza de prensión de la mano o la función pulmonar. También existen numerosas evidencias que apuntan a que las escalas de nutrición como el Mini Nutritional Assessment están vinculadas a los criterios de fragilidad.
+
+## INDICADORES BIOLÓGICOS DE FRAGILIDAD
+
+La etiología de la fragilidad parece ser multifactorial y su fisiopatología está influida por la interacción y superposición de numerosos factores. Morley propone cuatro mecanismos principales como los responsables del origen de la fragilidad: la aterosclerosis, el deterioro cognitivo, la desnutrición y la sarcopenia con las alteraciones metabólicas asociadas. Diversos estudios transversales han demostrado asociación entre la fragilidad y alteraciones de marcadores biológicos, aunque no hay un marcador específico, y la influencia de la comorbilidad y el proceso de envejecimiento basal no permiten establecer una relación causal. Su uso rutinario actualmente no está aconsejado, pero las investigaciones en este campo aumentan de forma progresiva por la importante repercusión a nivel diagnóstico y terapéutico que supondría la identificación de biomarcadores fiables.
+
+Algunos biomarcadores están relacionados con la activación de la respuesta inflamatoria, pues la inflamación crónica es un estado asociado al envejecimiento. Algunos estudios sugieren que el deterioro funcional en el anciano es el resultado de un proceso en el cual las citocinas son las mediadoras. Estas se producen en exceso como consecuencia de deficiencias, infecciones, estrés o defectos del sistema inmunológico o de los mecanismos inflamatorios, las cuales influyen sobre la masa muscular y otros componentes ligados a la fragilidad, como el estado nutricional. Destacan entre otras las interleucinas 6 y 1 (IL-6 y IL-I). También se han involucrado sus receptores, como el factor de necrosis tumoral alfa, el antagonista del receptor de la interleucina 1 y receptores solubles del TNF. Los niveles elevados de IL-6, provocan el catabolismo acelerado de proteínas, además de que induce la síntesis de otras proteínas, como la proteína C reactiva, las haptoglobinas, el fibrinógeno, el factor VIII y el dímero D, e
+---
+influye de forma negativa en la síntesis de otras, como la albúmina. Se ha propues-
+to que los niveles elevados de IL-6 pueden predecir la aparición de la sarcopenia,
+por lo que se convertiría en una vía para detectar a los adultos mayores en riesgo
+de desarrollarla y probablemente guiar la efectividad de posibles intervenciones de
+prevención. A través de la inflamación y sus mediadores el sistema inmune influye en
+las reacciones de defensa inmunológica, aunque también tiene efecto a nivel mus-
+cular, óseo, cardiaco, hematopoyético y cognitivo. También se ha demostrado que
+los ancianos frágiles presentan niveles séricos más elevados de proteína C reactiva y
+un incremento de los niveles de marcadores de la coagulación, como el factor VIII y
+el dímero D. Por otra parte, citocinas como el TNF-α, IL-1, interferón gamma y factor
+neurotrófico ciliar han demostrado una relación con la anorexia del envejecimiento
+y con el estado nutricional, así como con la masa muscular.
+
+Respecto al sistema neuroendocrino también se han asociado biomarcadores con
+fragilidad, especialmente con el deterioro del sistema musculoesquelético, entre
+los que destacan los niveles bajos de IGF-I, de sulfato de dehidroepiandrosterona
+y de vitamina D. Existe evidencia de que también la resistencia a la insulina es un
+elemento importante en la incidencia de fragilidad. La disminución en los niveles de
+hormonas anabólicas que ocurre con el envejecimiento parece estar involucrada en
+el origen de la fragilidad y de la pérdida involuntaria de músculo esquelético. Los
+andrógenos y la hormona del crecimiento están asociados a la masa muscular y la
+fuerza, por lo que su disminución tiene un papel importante en el desarrollo de la
+fragilidad. La disminución de la testosterona ha sido el principal factor asociado con
+la pérdida de la masa y fuerza muscular debido al envejecimiento. Esta disminución
+se asocia a discapacidad y a la pérdida de la fuerza de los miembros inferiores.
+
+La sarcopenia es un componente clave en la aparición de la fragilidad y parece ser un
+fenómeno universal probablemente debido a la combinación de factores genéticos y
+ambientales. Es un proceso multifactorial con múltiples componentes, entre los que
+destacan la pérdida de las neuronas motoras, mecanismos inflamatorios, el estrés
+oxidativo, cambios hormonales, la ingesta de proteínas y la actividad física. El músculo
+perdido es reemplazado por tejido adiposo y fibroso, lo cual favorece la disminución
+de la fuerza, tolerancia al ejercicio, fatiga y deterioro en la realización de algunas
+actividades de la vida diaria, discapacidad y eventualmente muerte. Además, la sar-
+copenia se asocia a una tasa metabólica baja, alteraciones de la termorregulación,
+aumento a la resistencia a la insulina y la promoción de un estado catabólico.
+
+## BIBLIOGRAFÍA RECOMENDADA
+
+Abizanda Soler P. Actualización en fragilidad. Rev Esp Geriatr Gerontol 2010 Mar-Apr;
+45(2):106-10.
+
+Abizanda Soler P. Fragilidad y discapacidad en el anciano. Rev Esp Geriatr Gerontol 2008;
+43:60-2.
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+Abizanda Soler P, Romero L, Luengo C. Uso apropiado del término fragilidad. Rev Esp Geriatr Gerontol 2005; 40:58-9.
+
+Baztán Cortés JJ. Función y fragilidad: ¿qué tenemos que medir? Rev Esp Geriatr Gerontol 2006; 41(Supl. 1):36-42.
+
+Clegg A, Young J, Iliffe S, Rikkert MO, Rockwood K. Frailty in elderly people. Lancet 2013 Mar 2; 381(9.868):752-62.
+
+Fried LP, Tangen CM, Walston J, Newman AB, Hirsch C, Gottdiener J, et al. Frailty in older adults: Evidence for a phenotype. J Gerontol A Biol Sci Med Sci 2001; 56A:M146-56.
+
+Fried LP, Ferrucci L, Darer J, Williamson JD, Anderson G. Untangling the concepts of disability, frailty, and comorbidity: implications for improved targeting and care. J Gerontol A Biol Sci Med Sci 2004 Mar; 59(3):255-63.
+
+García-García FJ, Alfaro Acha A. Fragilidad: de la epidemiología a la clínica. Rev Esp Geriatr Gerontol 2010; 45:250-1.
+
+Morley JE, Vellas B, Van Kan GA, et al. Frailty consensus: a call to action. J Am Med Dir Assoc 2013 Jun; 14(6):392-7.
+
+Rockwood K, Song X, MacKnight C, et al. A global clinical measure of fitness and frailty in elderly people. CMAJ 2005 Aug 30; 173(5):489-95.
+
+Rockwood K, Andrew M, Mitnitski A. A comparison of two approaches to measuring frailty in elderly people. J Gerontol A Biol Sci Med Sci 2007 Jul; 62(7):738-43.
+
+Rodríguez-Mañas L, Féart C, Mann G, et al. FOD-CC group Searching for an operational definition of frailty: a Delphi method based consensus statement: the frailty operative definition-consensus conference project. J Gerontol A Biol Sci Med Sci 2013 Jan; 68(1):62-7.
+
+18
+---
+# Fragilidad y dependencia
+
+Dra. Encarna Martín Pérez
+
+## INTRODUCCIÓN
+
+Los principales factores que determinan la calidad de vida en la persona mayor son vitalidad, ausencia de dolor y capacidad para realizar las actividades de la vida diaria, desplazarse, en definitiva, sentirse autónomo, por lo que su situación física y riesgo de fragilidad juegan un papel fundamental. Desde esta premisa, establecer la evolución natural de fragilidad en la persona mayor ha supuesto un gran avance hacia la comprensión del proceso de envejecimiento y su base fisiológica. Tanto clínicos como investigadores muestran unanimidad sobre el impacto que su presencia supone en la persona afecta, sus cuidadores y la sociedad. Su relación con el envejecimiento, la discapacidad y la presencia de enfermedades crónicas hace prioritario identificar cuáles son los individuos de riesgo, especialmente vulnerables y propensos a presentar resultados adversos en materia de salud, en los que una toma de decisiones a tiempo mejorará las posibilidades de tratamiento.
+
+Desde la práctica clínica diaria se hace necesaria una definición operacional de fragilidad que sea aplicable en la actividad asistencial cotidiana.
+
+## DEFINICIÓN
+
+Llegar a una definición sindrómica y consensuada de fragilidad es el punto de partida cuando nos referimos a un sector de población consumidora de recursos comunitarios, sanitarios y sociales, y que requiere elaborar un plan de intervención precoz que mejore su calidad de vida y reduzca el coste de los cuidados.
+
+Son muchas las definiciones propuestas, de ellas, la más operacional desde el punto de vista clínico es la propuesta por Fried en 2001 como: "síndrome biológico caracterizado por la disminución de la reserva fisiológica y una menor resistencia al estrés, como resultado de la acumulación de múltiples déficits en los sistemas fisiológicos que condiciona la vulnerabilidad ante eventos adversos y va asociado al proceso de envejecimiento". El fenotipo de fragilidad se define como fatiga, pérdida de peso y pérdida de fuerza muscular y se sustenta en cinco elementos diagnósticos: 1) Pérdida no intencionada de peso (> 4,5% del peso corporal en el último año), 2) Autopercepción de agotamiento, cansancio, 3) Disminución de la fuerza de prensión manual (ajustado de acuerdo a género e IMC), 4) Nivel de actividad física y 5) Reducción en la velocidad de la marcha.
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+La publicación del reciente consenso sobre fragilidad (Morley, 2013), que ha contado con la participación de seis sociedades científicas internacionales y la colaboración de Fried y Rockwood como coautores, ha supuesto un paso más y define fragilidad física como un síndrome clínico de etiología múltiple caracterizada por disminución de fuerza, resistencia y reserva fisiológica que aumenta la vulnerabilidad individual al desarrollo de dependencia funcional y/o muerte (figura 1). A partir de aquí podemos afirmar que:
+
+- Hablamos de un síndrome clínico al tratarse de un grupo de signos y síntomas que van juntos y caracterizan una particular anormalidad. Como síndrome, es de etiología multifactorial.
+- Estado de vulnerabilidad que ante cualquier factor estresante puede ocasionar deterioro funcional.
+- Proceso dinámico.
+- Reversible, por lo que la identificación precoz que permita establecer un plan de intervención es primordial.
+- La detección y cribaje son prioritarios para los profesionales de la salud.
+- Factor independiente de hospitalización e institucionalización.
+- Factor independiente de mortalidad.
+- Es diferente de comorbilidad y discapacidad, pero su presencia en la persona mayor aumenta el riesgo de desarrollar eventos adversos ante un factor estresante (discapacidad, morbilidad, mortalidad y hospitalización).
+
+Fragilidad no es sinónimo de deterioro funcional ni discapacidad, entendida esta como la necesidad de ayuda de otra persona y cuyo grado de severidad viene marcado por el número de actividades básicas de la vida diaria (ABVD) que la persona es incapaz de realizar de manera independiente. Si recogemos de una a cuatro actividades monitorizadas en el periodo de 1 mes, llamaremos a la dependencia en una o dos actividades de grado moderado, mientras que dependencia en más de tres se considera grado severo. Son muchas las escalas funcionales validadas que definen estos puntos de corte. La discapacidad sí es considerada la consecuencia más grave del síndrome de fragilidad (SF).
+
+Fragilidad física no es multimorbilidad. Ambas son comunes, pero la comorbilidad muestra mayor incidencia, en tres de cada cuatro personas mayores de 65 años y en una de cada cuatro en menores de 65 años. Mientras que la fragilidad parte de áreas específicas y requiere de un tratamiento integral, la presencia de multimorbilidad se aborda desde una gestión individualizada de cada caso. En ambos casos sería necesario una valoración multidimensional, la valoración geriátrica integral, capaz de determinar la situación basal del paciente, elaborar un diagnóstico integral (funcional, médico, psíquico y social), detectar problemas tratables y no diagnosticados, establecer un plan individualizado y permitir monitorización en el tiempo, además de facilitar la transmisión entre los profesionales sanitarios.
+---
+# Figura 1. Mecanismos epigenéticos en fragilidad
+
+```mermaid
+graph TD
+    A[Factores genéticos] --> C[Daño acumulativo molecular y celular]
+    B[Factores de medio ambiente] --> C
+    C --> D[Reserva fisiológica reducida]
+    D --> |Cerebro<br>Endocrino<br>Inmune<br>Musculoesquelético<br>Cardiovascular<br>Respiratorio<br>Renal| E[Fragilidad]
+    F[Actividad física] --> E
+    G[Factores nutricionales] --> E
+    E --> H[Caídas<br>Delirio<br>Disabilidad fluctuante]
+    I[Evento estresante] -.-> H
+    H --> J[Incremento de atención<br>Admisión en el hospital<br>Admisión a atención de larga estancia]
+    G -.-> J
+```
+
+Este diagrama muestra los mecanismos epigenéticos en fragilidad, ilustrando cómo diversos factores contribuyen al desarrollo de la fragilidad y sus consecuencias. El proceso se inicia con factores genéticos y ambientales, que conducen a un daño acumulativo molecular y celular. Esto resulta en una reserva fisiológica reducida que afecta varios sistemas del cuerpo, llevando a la fragilidad. La actividad física y los factores nutricionales también influyen directamente en la fragilidad. Un evento estresante puede precipitar caídas, delirio y discapacidad fluctuante, lo que finalmente puede resultar en un incremento de atención médica, admisión hospitalaria o atención de larga estancia.
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+El síndrome de fragilidad está íntimamente relacionado con la sarcopenia, causa mayor de aquella, que se define como la pérdida gradual y generalizada de masa muscular y fuerza, cuantificado por disminución de masa muscular y actividad deficiente (fuerza o rendimiento) sujeto a medidas conmensurables. Tanto fragilidad como sarcopenia podrían ser consideradas como síndromes geriátricos porque ambas suceden, de manera prioritaria, en la persona mayor, resultan de la interacción entre déficits identificables y situaciones específicas precipitantes, ambas aumentan el riesgo de discapacidad y toda intervención directa dirigida a aminorar cualquiera de los factores contribuyentes se va a manifestar en una reducción en la incidencia o severidad de la condición en cuestión. Los factores de riesgo de sarcopenia son: disminución de la actividad física, déficit nutricional, inflamación crónica y obesidad (obesidad sarcopénica).
+
+La aparición de un evento estresante (infarto agudo de miocardio –IAM–, hospitalización por otra causa...) desencadena una disfunción homeostática que afecta, principalmente, a los sistemas inmunológicos, neuroendocrino y musculoesquelético. Desde la afectación de estos sistemas, una serie de biomarcadores se ven alterados y sus niveles se relacionan con el riesgo de desarrollar fragilidad. Así, dímero D y factor activador del plasminógeno tisular, ambos ligados al aumento en el recambio de fibrina y fibrinólisis y cuya presencia se relaciona con el riesgo de presentar el síndrome. Similares resultados indican la presencia de niveles elevados de interleucina-6 y proteína C reactiva, así como disminución en los niveles del factor de crecimiento insulínico (IGF-1). Otros factores, como el factor de necrosis tumoral, se ha relacionado con índice pronóstico de mortalidad. A nivel hormonal, se ha encontrado relación entre niveles bajos de testosterona total y disminución de fuerza física.
+
+## VALORACIÓN DIAGNÓSTICA Y HERRAMIENTAS
+
+Los criterios diagnósticos en fragilidad más empleados hasta el momento son: criterios de Fried (figura 2), cuyos parámetros ya han sido adaptados a nuestro entorno, la valoración multidimensional de Rockwood (ambos comentados en el capítulo anterior) y, por último, la propuesta realizada por Ensrud basada en tres criterios diagnósticos: 1) Pérdida de peso independiente, intencionado o no, objetivada en los últimos 3 años, 2) Dificultad para levantarse de una silla 5 veces sin uso de los brazos, y 3) Nivel de energía reducida, obtenida con la respuesta NO a la pregunta: ¿se siente usted lleno de energía? La presencia de dos o tres criterios se cataloga como anciano frágil.
+---
+## Figura 2. Ciclo de la fragilidad
+
+```mermaid
+graph TD
+    A[Desregulación neuroendocrina] --> B[Envejecimiento: cambios osteomusculares del envejecimiento]
+    C[Enfermedad] --> B
+    B --> D[Balance energético negativo]
+    E[Desnutrición crónica<br>Ingesta inadecuada de<br>proteínas y energía; déficit<br>de micronutrientes] --> D
+    D --> F[Pérdida de peso]
+    D --> G[Balance nitrogenado negativo]
+    H[Anorexia del anciano] --> G
+    G --> I[Pérdida de masa muscular<br>Sarcopenia]
+    J[Gasto energético total] --> K[Gasto metabólico basal]
+    K --> I
+    L[Actividad] --> M[Fuerza y potencia]
+    M --> N[Velocidad marcha]
+    N --> O[Discapacidad]
+    O --> P[Dependencia]
+    I --> Q[VO2máx]
+    Q --> N
+```
+
+Tomado de Fried, et al.
+
+23
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+No se ha llegado a establecer el "gold standard" sobre cuál es la herramienta de elección, básica para el cribado, capaz de identificar aquellas personas con fragilidad física o riesgo de aparición. Sin embargo, disponemos de instrumentos fiables y consensuados, aplicables tanto en el entorno de Atención Primaria como Especializada. Sobre qué escalas son más útiles, el porcentaje de individuos frágiles o prefrágiles detectados en los diferentes estudios muestra bastante similitud a pesar de las diferencias metodológicas (entre 4-11% de frágiles y 37-55% de prefrágiles). Dentro de estas, algunas de las que han mostrado suficiente valor predictivo:
+
+- FRAIL Questionnaire Screening Tool.
+- Cardiovascular Health Study Frailty Screening Scale.
+- The Clinical Frailty Scale.
+- The Gérontopôle Frailty Screening Tool.
+
+Dentro de las herramientas diagnósticas, destacar la valoración geriátrica integral, herramienta básica de la geriatría, centrada en un modelo de intervención multidimensional para evaluar al anciano frágil en la práctica clínica y basada en la evidencia. Definida como procedimiento diagnóstico integral realizado por un equipo multidisciplinar, capaz de determinar situación médica, funcional, psíquica y social con el fin de establecer un plan de tratamiento individualizado y que facilita su monitorización en el tiempo. Si bien, en el entorno hospitalario debe ser realizada por geriatras, en Atención Extrahospitalaria puede ser realizada por el médico de Atención Primaria. Dos estudios han demostrado su valor predictivo en la detección de diferentes grados de fragilidad. Las objeciones para la práctica clínica radican en el tiempo y experiencia necesarios tanto para su realización como para actuar sobre las posibles causas específicas detectadas (trastorno emocional, alteración sensorial, deterioro cognitivo...).
+
+A partir de aquí, ¿a qué perfil de población debemos realizar el cribaje? Según el último consenso, la población diana más beneficiada de un programa de intervención precoz es aquella mayor de 70 años, sin evidencia de deterioro funcional, con pérdida de peso reciente (> 5% en 1 año) en relación a patología médica. La evidencia clínica propone que una persona mayor con insuficiencia cardiaca, cáncer, enfermedad renal crónica, diabetes, infección por HIV o que haya sido sometida a intervención quirúrgica reciente están en riesgo de fragilidad y de evolucionar hacia resultados adversos de salud. Sin embargo, algunos autores muestran discrepancia en este punto por considerar el punto de corte de 70 años demasiado prematuro.
+
+Al analizar los resultados obtenidos tras aplicar alguna de las herramientas validadas como puede ser la escala FRAIL (corresponde a las siglas en inglés fatigue, resistance, aerobic, illness, and loss of weight), es útil desglosar cada uno de sus componentes en la búsqueda hacia un diagnóstico etiológico:
+---
+Los apartados de "resistencia" y "actividad aeróbica" son integrantes de sarcopenia y, por tanto, medibles con los instrumentos empleados para esta: la fuerza de prensión manual y la velocidad de la marcha.
+
+"Fatiga, cansancio", son de etiología plurifactorial y se relacionan con causas médicas: anemias, alteración endocrina, trastornos del sueño, polifarmacia, depresión, déficit vitamínico (B12). Destaca la insuficiencia cardiaca, como causa de las causas principales de fatiga, en relación a una deficiente función muscular.
+
+En las personas con multimorbilidad suele darse tanto pérdida de masa muscular como disminución de la fuerza, dos de los componentes de la sarcopenia, el tercero es la disminución del rendimiento físico. Esta pérdida de masa muscular puede conducir a la pérdida de peso, aunque esta no sea un elemento constante en la sarcopenia. Las herramientas diagnósticas en sarcopenia deben estar integradas en la detección del síndrome de fragilidad. Las técnicas empleadas son las siguientes:
+
+- Pruebas antropométricas: la circunferencia de la pantorrilla se correlaciona positivamente con la masa muscular (< 31 cm se asocia a discapacidad), pero su alto margen de error no la hace recomendable.
+
+- Pruebas de medición de la fuerza muscular: fuerza de prensión manual isométrica con dinamómetro.
+
+- Pruebas de rendimiento físico:
+  - Batería breve de rendimiento físico (SPPB): evalúa equilibrio, marcha, fuerza y resistencia. Mide la capacidad de mantenerse de pie con los pies juntos y caminar sobre una línea pie-talón, tiempo en recorrer 2,4 m, levantarse de una silla y volver a sentarse 5 veces. Cada prueba puntúa con 4 puntos (equilibrio = 4; velocidad marcha = 4; fuerza piernas = 4).
+  - Velocidad de la marcha habitual: prueba sencilla, fiable, con capacidad predictiva de limitación funcional y muerte.
+  - Prueba cronometrada de levántate y anda (up & go): mide rendimiento físico y equilibrio.
+
+- Pruebas de imagen para el cálculo de la masa muscular:
+  - DEXA: absorciometría radiológica de doble energía –densitometría muscular–: diferencia tejido adiposo, mineral óseo y masa magra con mínima radiación al paciente.
+  - Resonancia nuclear magnética (RNM) es la técnica de elección, pero le limita su alto costo.
+  - Análisis de bioimpedancia: calcula volumen de masa corporal magra y grasa, sus ventajas residen en el bajo costo, fiable, fácil de usar y adecuada tanto en pacientes ambulatorios como encamados.
+  - Ultrasonido muscular: con un margen de error del 2%, tiene bajo costo y dificultad técnica moderada.
+
+No disponemos aún de biomarcadores aplicables en la práctica clínica.
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+### TRATAMIENTO
+
+El objetivo primordial de todo profesional sanitario es reducir la prevalencia y/o severidad de la fragilidad física y, en lo posible, revertirlo a su situación basal a través de un plan de intervención precoz. El tratamiento debe ser integral e individualizado basado en cuatro pilares básicos: actividad física, soporte calórico-proteico, vitamina D y, por último, el manejo adecuado de los diferentes problemas médicos detectados (síndromes geriátricos y comorbilidades más incapacitantes) con un especial plan de atención en la polifarmacia.
+
+El ejercicio físico es primordial en el tratamiento del síndrome de fragilidad, la más efectiva y consistente de las intervenciones, capaz de mejorar la funcionalidad en la persona mayor. Sobre qué tipo de programa y qué tipo de actividad son los más adecuados, parece existir acuerdo entre los diferentes estudios que los de resistencia y aeróbicos han mostrado mejores resultados.
+
+- La revisión Cochrane (2011) sobre el efecto del entrenamiento de fuerza con resistencia progresiva (ERP) concluye que es una intervención eficaz que mejora la función física, la fuerza muscular y la realización de actividades complejas en la persona mayor.
+
+- La realización de ejercicios de resistencia durante 1 año en ancianos frágiles intervenidos de fractura de cadera ha demostrado disminuir la incidencia de reingresos hospitalarios e institucionalización.
+
+- Asimismo, ha resultado ser costo-efectivo en la prevención de fragilidad y limitación funcional, la realización de actividad física regular con una frecuencia de 45-60 minutos durante 3 veces por semana.
+
+Para la medición del rendimiento funcional de la actividad física realizada en el anciano frágil, se han empleado: la velocidad de la marcha, levantarse de la silla sin el uso de sujeción, subir escaleras y equilibrio, todas ellas de fácil monitorización y asociadas a la reducción del miedo a caídas. Disponemos de fuerte evidencia sobre la efectividad del ejercicio físico, tipo de actividad y forma de monitorizar la respuesta. El problema surge en cuanto a forma y duración del mismo, pero parece existir unanimidad en que la actividad debe ser realizada, al menos, durante 1 año.
+
+El aporte de ingesta calórico-proteica junto a actividad física garantiza un rendimiento óptimo del músculo, además de combatir la pérdida de peso, componente este último del síndrome de fragilidad. La colaboración Cochrane afirma que la suplementación proteico-calórica mejora la ganancia de peso y reduce la mortalidad y complicaciones médicas en pacientes desnutridos. La suplementación proteico-calórica también ha demostrado mejorar los datos de salud en personas con enfermedad obstructiva crónica. El tratamiento nutricional es eficaz al conseguir ganancia de peso, aumento de la masa muscular, aumento de fuerza de prensión manual y reducción en el número de complicaciones. Para un efecto óptimo, es re-
+---
+comendable que sean administrados entre comidas. Su actuación es sinérgica junto
+a los ejercicios de resistencia en la persona mayor. Se aborda más detenidamente
+en otro capítulo del libro.
+
+Los niveles de vitamina D disminuyen con la edad y la presencia de hipovitaminosis
+(niveles de 25-OH-vitamina D por debajo de 20 ng/ml) es factor independiente de fra-
+gilidad. La evidencia en el tratamiento con vitamina D en ancianos frágiles mejora la
+fuerza y disminuye la incidencia de caídas, fracturas de cadera y mortalidad. La pauta
+recomendada ante una situación deficitaria es comenzar con 50.000 UI semanales
+durante 6 a 12 semanas, pasando a 1.000-2.000 UI como dosis de mantenimiento.
+
+Programa de intervención en polifarmacia: la polifarmacia se reconoce como el ma-
+yor contribuyente en la patogénesis de la fragilidad. Por ende, intervenir en la reduc-
+ción de medicación inapropiada aminora, claramente, los efectos secundarios en
+este grupo de población, además de disminuir costos al sistema sanitario. Controlar
+el uso de medicación inapropiada, posibles interacciones, controlar la prescripción
+con la ayuda de criterios estandarizados como STOPP/START o BEERS ayuda a fa-
+cilitar el cumplimiento terapéutico y adherencia al mismo, evitando el riesgo de
+fragilidad.
+
+Otros fármacos: junto al abordaje integral del síndrome de fragilidad arriba indi-
+cado, hay un interés creciente en el desarrollo de fármacos que actúen sobre los
+diferentes mecanismos o consecuencias de la fragilidad sin resultados favorables
+hasta el momento que puedan ser aplicables en la práctica clínica. La testosterona
+ha demostrado aumentar la masa muscular y la fuerza de esta tanto en anciano frá-
+gil como no frágil, sin embargo, sus efectos secundarios desestiman su indicación.
+A partir de aquí, nuevas estrategias de investigación y desarrollo están en marcha,
+destacando los receptores selectivos de andrógenos, enobosarm (SARM, nonste-
+roidal selective androgen receptor modulator), aún en fase de investigación. El uso
+de inhibidores de la enzima convertidora de angiotensina en mujeres disminuye el
+grado de deterioro de la fuerza y velocidad, aunque no ha demostrado suficiente
+evidencia para su uso.
+
+## CONCLUSIONES
+
+- Fragilidad física es un síndrome clínico tratable y reversible.
+- El cribaje debe realizarse a toda población mayor de 70 años sin evidencia
+  de deterioro funcional, que ha sufrido pérdida de peso en el último año en
+  relación a la patología médica que padece.
+- Disponemos de herramientas diagnósticas fiables y consensuadas.
+- El tratamiento integral se sustenta en cuatro pilares: actividad física, suple-
+  mentación calórico-proteica, vitamina D y control estricto de la polifarmacia,
+  además de las posibles causas médicas tratables.
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+- Los ejercicios de resistencia han demostrado evidencia clínica en fragilidad.
+- Este enfoque y tratamiento reducirá el riesgo o nivel de deterioro funcional en la persona mayor.
+
+La evolución hacia una definición consensuada del síndrome de fragilidad, entendida como fragilidad física presente antes de la aparición de deterioro funcional, abre las puertas a nuevos interrogantes. Antes de ello y de decidir un mecanismo de actuación ante la fragilidad, de pensar si sería necesario adaptar los servicios de atención al anciano, o quién y cómo debe realizarse un programa de detección e intervención precoz, necesitaremos expertos en el manejo de déficits y problemas específicos del anciano.
+
+## BIBLIOGRAFÍA RECOMENDADA
+
+Abizanda Soler P. Update on frailty. Rev Esp Geriatr Gerontol 2010; 45:106-10.
+
+Abizanda Soler P, López-Torres Hidalgo J, Romero Rizos L, et al. Frailty and dependence in Albacete (FRADEA study): reasoning, design and methodology. Rev Esp Geriatr Gerontol 2011; 46:81-8.
+
+Clegg A, Young J, Iliffe S, Rikkert MO, Rockwood K. Frailty in elderly people. Lancet 2013; 381:752-62.
+
+Cruz-Jentoft AJ, Baeyens JP, Bauer JM, Y, et al. Zamboni, Sarcopenia: European consensus on definition and diagnosis: Report of the European Working Group on Sarcopenia in Older People. Age ageing 2010; 39:412-23.
+
+Drubbel I, Numans ME, Kranenburg G, et al. Screening for frailty in primary care: a systematic review of the psychometric properties of the frailty index in community-dwelling older people. BMC Geriatr 2014; 14:27.
+
+Ellis G, Whitehead MA, Robinson D, et al. Comprehensive geriatric assessment for older adults admitted to hospital: meta-analysis of randomised controlled trials. BMJ 2011; 343:d6553.
+
+Ensrud KE, Ewing SK, Taylorn BC, et al. Frailty and risk of falls, fracture, and mortality in older women: the study of osteoporotic fractures. J Gerontol A Biol Sci Med Sci 2007; 62:744-51.
+
+Ferrucci L, Guralnik JM, Studenski S, et al. Designing randomized, controlled trials aimed at preventing or delaying functional decline and disability in frail, older persons: a consensus report. J Am Geriatrics Soc 2004; 52:625-34.
+
+Fiatarone MA, O'Neill EF, Ryan ND, et al. Exercise training and nutritional supplementation for physical frailty in very elderly people. N Engl J Med 1995; 330:1.769-75.
+
+Fried LP, Ferrucci L, Darer J, et al. Untangling the concepts of disability, frailty, and comorbidity: implications for improved targeting and care. J Gerontol A Biol Sci Med Sci 2004; 59:255-63.
+
+Fried LP, Tangen CM, Walston J, et al. Frailty in older adults: evidence for a phenotype. J Gerontol A Biol Sci Med Sci 2001; 56:M146-56.
+
+Gordon AL, Masud T, Gladman JR. Now that we have a definition for physical frailty, what shape should frailty medicine take? Age Ageing 2014; 43:8-9.
+---
+Jones DM, Song X, RockwoodK. Operationalizing a frailty index from a standardized com-
+prehensive geriatric assessment. J Am Geriatr Soc 2004; 52:1.929-33.
+
+Kim H, Higgins PA, Canaday DH, Burant CJ, Hornick TR. Frailty assessment in the geriatric
+outpatient clinic. Geriatr Gerontol Int 2014; 14:78-83.
+
+Laosa O, Alonso C, Castro M, Rodriguez-Manas L. Pharmaceutical Interventions For Frailty
+And Sarcopenia. Curr Pharm Des 2013.
+
+Morley JE, Vellas B, Van Kan GA, et al. Frailty consensus: a call to action. J Am Med Dir Assoc
+2013; 14:392-7.
+
+Morley JE, Von Haehling S, Anker SD, Vellas B. From sarcopenia to frailty: a road less
+traveled. J Cachexia Sarcopenia Muscle 2014; 5:5-8.
+
+Otero A, Castell MV, De Hoyos MC. Frailty screening in primary care. Rev Esp Geriatr y
+Gerontol 2011; 46:239-40.
+
+Rizzoli R, Reginster JY, Arnal JF, et al. Quality of life in sarcopenia and frailty. Calcif Tissue int
+2013; 93:101-20.
+
+Rockwood K, Fox RA, Stolee P, Robertson D, Beattie BL. Frailty in elderly people: an evolving
+concept. CMAJ 1994; 150:489-95.
+
+Rockwood K, Howlett SE, MacKnight C, et al. Prevalence, attributes, and outcomes of fit-
+ness and frailty in community-dwelling older adults: report from the Canadian study of
+health and aging. J Gerontol A Biol Sci Med Sci 2004; 59:1.310-7.
+
+Rockwood K, Hubbard R. Frailty and the geriatrician. Age Ageing 2004; 33:429-30.
+
+Rockwood K, Song X, MacKnight C, et al. A global clinical measure of fitness and frailty in
+elderly people. CMAJ 2005; 173:489-95.
+
+Rodriguez Manas L. RETICEF: an opportunity to stimulate Spanish research on ageing and
+frailty. Revista Esp Geriatr Gerontol 2008; 43:68-70.
+
+Rodriguez-Manas L, Feart C, Mann G, et al. Searching for an operational definition of frailty:
+a Delphi method based consensus statement: the frailty operative definition-consensus con-
+ference project. J Gerontol A Biol Sci Med Sci 2013; 68:62-7.
+
+Romero Ortuno R. The Frailty Instrument for primary care of the Survey of Health, Ageing
+and Retirement in Europe (SHARE-FI): results of the Spanish sample. Rev Esp Geriatr Geron-
+tol 2011; 46:243-9.
+
+Romero Ortuno R, Formiga F. Fitness or frailty? Does age matter? New horizons in geriatrics.
+Rev Esp Geriatr Gerontol 2013; 48:207-8.
+
+Romero Rizos L, Abizanda Soler P. Frailty as a predictor of adverse events in epidemiological
+studies: literature review. Rev Esp Geriatr Gerontol 2013; 48:285-9.
+
+Verghese J, Holtzer R, Lipton RB, Wang C. High-sensitivity C-reactive protein and mobility
+disability in older adults. Age Ageing 2012; 41:541-5.
+
+Xue QL. The frailty syndrome: definition and natural history. Clin Geriatric Med 2011; 27:1-15.
+---
+The image provided appears to be entirely blank or white. There is no visible content, text, diagrams, or any other discernible information on this page. Therefore, I cannot provide any markdown translation or description of content, as there is nothing to transcribe or describe.
+---
+# Fragilidad cognitiva y nutrición
+
+Dr. Manuel Antón Jiménez
+
+## INTRODUCCIÓN
+
+Aunque el concepto de fragilidad está fuertemente arraigado entre los profesionales que tratan a nuestros ancianos, la fragilidad cognitiva es todavía un concepto extrapolado a las funciones atribuidas a la cognición, que significan también una vulnerabilidad especial al desarrollo de demencia establecida, por lo que podemos asimilarlo en la práctica a la fase preclínica o fase prodrómica que Petersen incluyó en el concepto de deterioro cognitivo leve. Aunque la nutrición y los micronutrientes han demostrado suficientemente su efecto beneficioso en las etapas iniciales de la vida, existen controversias en relación a lo que determinada dieta o algunos micronutrientes pueden aportar para impedir el paso desde fragilidad cognitiva hacia demencia establecida.
+
+La malnutrición está asociada al deterioro cognitivo o pérdida funcional, pero tambien se sabe que un estado nutricional inadecuado predispone a fragilidad cognitiva. En el envejecimiento, las modificaciones en la composición corporal y la fragilidad cognitiva están claramente implicadas en el síndrome de fragilidad y sarcopenia, pero en este texto intentamos analizar si podemos actuar sobre esa fragilidad cognitiva a traves de la nutrición y si podemos establecer estrategias de suplementación a nivel poblacional o debemos de focalizarlo solo en los pacientes que tienen defectos carenciales concretos.
+
+Otro interrogante surge con la población muy anciana (mayores de 90 años). Estudios recientes publicados en Archives of Neurology destacan que las personas de más de 90 años que tienen dificultades para caminar y sufren otras discapacidades físicas son más propensas a padecer demencia. Se asocia en este estudio las peores puntuaciones en test de equilibrio y marcha, con las peores puntuaciones en test cognitivos, corroborando los estudios de pacientes de menor edad; es decir, que declive físico induce declive cognitivo y declive cognitivo induce declive físico. Es por ello que la investigación está actualmente absolutamente centrada en el círculo vicioso entre fragilidad, sarcopenia, fragilidad cognitiva y funcionalidad global. El papel de la intervención nutricional cobra pues una enorme trascendencia en todo este entramado constructo.
+
+## FRAGILIDAD COGNITIVA Y FACTORES DE RIESGO VASCULAR
+
+Con el creciente énfasis en el diagnóstico temprano de la enfermedad de Alzheimer (AD), las investigaciones clínicas se focalizaron en la identificación de los
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+factores de riesgo que pueden ser modificados en el estadio preclínico y tempra-
+no de las enfermedades que llevan a la demencia. La prevalencia e incidencia de
+los diferentes síndromes de predemencia varían según los diferentes criterios de
+diagnóstico, así como también según las diferentes muestras o procedimientos
+de medición. Además, muchos de los factores de riesgo de accidentes cerebro-
+vasculares (CVD) y demencia vascular (VaD), incluyendo al colesterol total sérico,
+hipertensión, ateroesclerosis y apolipoproteína genotípica E (APOE), se han de-
+mostrado también como factores de riesgo independientes para AD. Algunos
+estudios recientes sugirieron adicionalmente que los CVD o factores vasculares
+aumentan el riesgo de conversión de deterioro cognitivo leve (MCI) a demencia.
+Interés particular surge de la certeza de que el MCI es percibido como una fase
+prodrómica y, por lo tanto, altamente predictiva de la evolución a AD. En sujetos
+ancianos, particularmente mayores de 85 años, la prevalencia de factores vascu-
+lares y otras condiciones médicas que deterioran el conocimiento se incrementan
+de forma progresiva y sustancial, incluyendo enfermedades metabólicas, respira-
+torias, cardiovasculares y otras muchas enfermedades de desarrollo crónico, así
+como importantes déficits de aferencias sensoriales.
+
+No se conocen todas las causas de la declinación cognitiva y la demencia, pero
+algunos estudios han sugerido que estas condiciones deben prevenirse. Estudios
+ya clásicos han correlacionado el declinar cognitivo con enfermedad cardiovas-
+cular, diabetes mellitus, hipertensión o hipoperfusión sanguínea. Se conocen va-
+rios factores genéticos y no genéticos que incrementan el riesgo de enfermedad
+vascular, incluyendo la apolipoproteína E (APOE) y angiotensina 1, que convierte
+enzima 1 (ACE1) genotípica, colesterol total (TC), lipoproteína A [Lp(a)], diabetes
+mellitus, fibrilación auricular, hipertensión y ateroesclerosis.
+
+Muchos trabajos han concluido que la mayoría de los pacientes que pertenecen al
+criterio de MCI pueden progresar a AD, pero los porcentajes de conversión de AD a
+demencia varían ampliamente entre los estudios, en parte por las características de
+la población involucrada y por los largos seguimientos. Muchos de los factores de
+riesgo para CVD y VaD se han mostrado también como factores que aumentan el
+riesgo de AD. Si MCI es esencialmente un AD incipiente, entonces los factores pre-
+dictivos de AD pueden conducir a una relación similar con MCI, y tanto los factores
+vasculares como el alelo ε4 APOE han sido asociados con un alto riesgo de AD. Sin
+embargo, evidencia reciente de un estudio basado en población sugiere que entre
+pacientes con MCI que progresaron a demencia el 60% progresó a AD y el 33% a
+VaD, reflejando la heterogeneidad del MCI. Otros estudios recientes sugieren que
+CVD o factores vasculares incrementan el riesgo de conversión de MCI a demencia.
+A pesar de que la considerable evidencia epidemiológica indica que los factores
+de riesgo cerebrovasculares se asocian con varios tipos de demencia, incluyendo
+AD, solo una limitada información prospectiva observa el impacto de CVD en la
+incidencia a demencia.
+---
+Por tanto, todos los factores dietéticos que influyan sobre factores de riesgo vascular potencialmente van a influir en el declinar hacia demencia entre los pacientes con fragilidad cognitiva. Y esto sí se ha demostrado en estudios de cohorte descriptivos.
+
+## Restricción calórica
+
+En los últimos años han salido a la luz algunas pistas interesantes sobre el tema, incluida la idea de que podría ser beneficioso reducir la ingesta de calorías. Parece que reducir un tercio nuestra ingesta calórica, reduciendo principalmente el tamaño de las raciones, puede mejorar los resultados en los test de memoria. En los últimos años parece más en boga la teoría del equilibrio calórico. Los resultados publicados en la revista Journal of Alzheimer en 2012 muestran que la existencia de un equilibrio adecuado en la proporción de calorías diarias derivadas de los hidratos de carbono, grasas y proteínas puede ayudar a mantener la integridad neuronal y una función cognitiva óptima en el anciano. Este es el primer estudio que muestra la influencia de los macronutrientes en la dieta. En él se sugiere que un alto consumo de energía procedente de los hidratos de carbono y un consumo relativamente bajo de grasas y proteínas pueden tener consecuencias adversas en el desarrollo del deterioro cognitivo leve.
+
+Esta conclusión podría ser debida a que la pérdida de peso disminuye los niveles de insulina, lo que, posiblemente, conduce por diferentes procesos a una activación del mecanismo inflamatorio neuronal en el cerebro, causando el daño y la pérdida de memoria. Ello no significa que haya que empezar una dieta de forma drástica y desordenada, ya que, aunque un elevado índice de masa corporal conduce a unos peores resultados en los test de memoria, orientación, atención y cálculo, también lo hace un índice corporal bajo. Lo ideal es un término medio y que nuestro peso corporal esté dentro de un índice de masa corporal saludable.
+
+## Dieta mediterránea
+
+Una dieta de estilo mediterráneo puede ayudar a proteger de la demencia. Esto supone basar las comidas fundamentalmente en vegetales y frutas, legumbres y cereales enteros, además de pescado azul y otros mariscos. Estas dietas incluyen pequeñas cantidades de carne roja (un par de pequeñas raciones a la semana) y de productos lácteos, como mantequilla y crema, junto con cantidades moderadas de alcohol (a menudo vino tinto) y grasas insaturadas, como el aceite de oliva. Cuando los científicos estadounidenses observaron algunos grupos poblacionales que vivían en Nueva York, descubrieron que aquellos cuyas dietas se acercaban más a los principios del estilo mediterráneo tenían un 28% menos de probabilidades de experimentar MCI que los que seguían una dieta de mayor tradición americana. El estudio observó a 712 personas mayores de 65 años. Se preguntó a los participantes por su dieta y, después, unos 6 años más tarde, se les realizó una resonancia mag-
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+nética. Los investigadores observaron que las personas que más se habían ceñido a una dieta de estilo mediterráneo estaban un 36% menos expuestas a presentar áreas del cerebro dañadas, en comparación con aquellas cuyos hábitos alimenticios se alejaban más de la dieta mediterránea, lo que prueba que esta dieta es realmente protectora y que protege del desarrollo de la demencia. También se observó que los que ya experimentaban síntomas de MCI también tenían casi un 50% menos de riesgo de que la enfermedad progresase hasta derivar en Alzheimer si ajustaban sus dietas. Investigaciones posteriores nos muestran también que seguir una dieta mediterránea –que previamente se han mostrado beneficiosas o con efecto preventivo a nivel cardiovascular fundamentalmente– también puede ayudar de forma concomitante a reducir el riesgo de presentar muerte celular cerebral.
+
+Sin embargo, estos incontrovertibles resultados no se extrapolaron de forma significativa cuando se realizó el único estudio de intervención con características metodológicas correctas. Esto dificulta intrínsecamente la implementación de una intervención a gran escala y de una manera sostenible. Se necesitan más estudios de intervención para promover y entender el papel preventivo de la dieta mediterránea en los pacientes con fragilidad cognitiva y reducir de manera general el riesgo de demencia en estos pacientes.
+
+## Dietas especiales
+
+Numerosos estudios se dedican desde hace tiempo a investigar en qué medida un determinado tipo de dieta pueda ayudar a prevenir la aparición de demencia. Los resultados de los estudios en este campo han sido contradictorios. En el caso de combinaciones complejas de alimentos o mezclas de nutrientes, resulta especialmente difícil identificar las posibles propiedades protectoras de las sustancias activas individuales.
+
+El consumo regular de té negro o té verde, como es costumbre en muchos países de Asia, se ha relacionado en diversos estudios epidemiológicos con la prevención del deterioro de las capacidades mentales y el desarrollo de demencia. Ciertos ingredientes del té (como las catequinas o la L-teanina) pueden tener un efecto protector de las células. Los ingredientes que han sido objeto de más estudios son las catequinas (especialmente la epigalocatequina-3-galato, EGCG), las cuales, como polifenoles del té verde de acción antioxidante, podrían frenar el deterioro cognitivo reduciendo el estrés oxidativo.
+
+## Micronutrientes y fragilidad cognitiva
+
+Aparte de realizar ejercicio físico y ejercitar la actividad mental regularmente, seguir una dieta equilibrada rica en micronutrientes puede contribuir especial-
+---
+mente a prevenir la aparición de demencia y a contrarrestar el avance de la enfermedad.
+
+En la prevención de las demencias, el consumo de ciertos alimentos no es tan importante como la ingesta regular de una combinación equilibrada de nutrientes, algunos de los cuales parecen tener un papel fundamental. Las investigaciones han proporcionado evidencia de que el consumo excesivo de ácidos grasos saturados de origen animal puede aumentar el riesgo de desarrollar demencia, mientras que los ácidos grasos poliinsaturados podrían tener un efecto protector. Un aporte adecuado de vitaminas B favorece la función de las células nerviosas del cerebro y ayuda a prevenir la formación de productos metabólicos dañinos. Uno de estos productos son los radicales de oxígeno agresivos, que parecen intervenir en la aparición de daños nerviosos y que podrían ser neutralizados por medio de micronutrientes antioxidantes. Muchos de los componentes de una alimentación neuroprotectora se encuentran, por ejemplo, en la dieta mediterránea que, por su alto contenido en frutas, verduras y pescado, aporta una gran cantidad de vitaminas, fotoquímicos, minerales, oligoelementos y ácidos grasos omega-3.
+
+## Ácidos grasos omega-3
+
+El cerebro humano está compuesto en un 60% por ácidos grasos, de los cuales el ácido graso omega-3, ácido docosahexanoico (DHA), representa la mayor parte (entre un 20 y un 30%). En las células del cerebro y de la médula espinal (sistema nervioso central), el DHA se incorpora principalmente en los fosfolípidos de las membranas plasmáticas y las membranas de los orgánulos celulares (por ejemplo, las mitocondrias). El DHA abunda especialmente en los fosfolípidos de las terminaciones nerviosas de la materia gris cerebral, donde interviene de manera decisiva en el desarrollo, el mantenimiento y la función del sistema nervioso central.
+
+Los resultados de numerosos estudios experimentales, epidemiológicos y clínicos indican que el tipo de ácidos grasos (omega-3 u omega-6) presentes en los fosfolípidos depende en gran medida de la composición de ácidos grasos de la alimentación. Por consiguiente, un consumo elevado de DHA produce un aumento de la cantidad de DHA en las membranas plasmáticas mediante la sustitución del ácido graso omega-6, ácido araquidónico, y por tanto, aumenta la movilidad interna de la membrana (fluidez). Esto, a su vez, afecta la actividad de las proteínas unidas a la membrana –como los receptores, las enzimas, las proteínas de transporte y los canales iónicos–, la disponibilidad de los neurotransmisores, la permeabilidad de la membrana y las interacciones entre células. Al ser un componente esencial de la vaina de mielina que recubre los axones de las neuronas, el DHA también es necesario para el aislamiento eléctrico de las vías neuronales. El DHA contribuye a transmitir la información correcta (impulsos nerviosos), propiciando el aprendizaje, la memoria y la capacidad cognitiva.
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+Los estudios clínicos han demostrado que las personas mayores que consumen una dosis de DHA superior a la media presentan unas funciones cognitivas mejores que las de aquellas con un consumo menor. En un ensayo aleatorizado controlado, la administración de aceite de pescado (2,2 g al día) con DHA y EPA (ácido eicosapentanoico) en personas mayores sin demencia mejoró significativamente funciones cerebrales (ejecutivas) como la flexibilidad, la memoria de trabajo y la planificación. El deterioro de estas capacidades cerebrales forma parte de la fase preclínica de la enfermedad de Alzheimer. Por otra parte, un aumento de la ingesta de ácidos grasos omega-3 parece tener un efecto positivo a largo plazo en la estructura y el volumen de ciertas áreas del cerebro ricas en neuronas (la corteza cerebral junto con la materia "blanca" y "gris") que son responsables tanto del control de los músculos y los órganos sensoriales, como de la memoria y los procesos de aprendizaje. Los resultados de los estudios observacionales sugieren que el consumo de pescados grasos y de los ácidos grasos que estos contienen (especialmente de DHA) podría contribuir a prevenir el desarrollo de una atrofia progresiva de la corteza cerebral y a disminuir el riesgo de padecer la enfermedad de Alzheimer. A pesar de los alentadores resultados mencionados, los estudios clínicos no han podido ofrecer hasta ahora ninguna evidencia de un efecto protector del DHA y EPA en la progresión de la demencia de Alzheimer en pacientes que se encuentran en un estadio relativamente temprano de la enfermedad.
+
+Las causas exactas de este tipo de demencia aún no están claras. En los pacientes se observa una acumulación anormal de una proteína particular (proteína tau) que destruye las células nerviosas y los depósitos externos de un complejo proteína-polisacárido (betaamiloide). Se cree que el DHA podría contrarrestar la formación de placas de betaamiloide evitando directa e indirectamente la transformación del precursor del betaamiloide (proteína precursora del betaamiloide, APP) en el producto neurotóxico final. Además, estudios experimentales recientes han aportado pruebas de que una molécula mediadora lipídica específica (resolvina D1), la cual se sintetiza en el organismo a partir del DHA, puede potenciar la actividad de las células del sistema inmunitario (macrófagos) que disuelven las placas de betaamiloide existentes en las células nerviosas.
+
+Aparte de los efectos positivos en las células y las funciones del sistema nervioso central, los ácidos grasos omega-3 también se asocian con beneficios para la salud cardiovascular. En estudios epidemiológicos y clínicos se ha demostrado que el EPA y el DHA proporcionan una mejoría de la plasticidad y un aumento de la flexibilidad de los glóbulos rojos (eritrocitos) gracias a la incorporación de los ácidos grasos omega-3 en la pared celular y, por lo tanto, un mejor flujo sanguíneo. Asimismo, provocan una disminución de la presión arterial por el ensanchamiento de los vasos sanguíneos (vasodilatación) al influir en la capa interna de los mismos (endotelio). También se les atribuyen efectos que previe-
+---
+nen el desarrollo de la aterosclerosis y la trombosis: un descenso de los niveles de triglicéridos y colesterol LDL en la sangre, la inhibición de la coagulación de la sangre y una acción antiinflamatoria. La promoción de la salud cardiovascular y del flujo sanguíneo en general aumenta la capacidad del cerebro y reduce el riesgo de demencia vascular, en la que se producen cambios celulares ateroscleróticos que van destruyendo paulatinamente las células nerviosas de la corteza cerebral. Estudios experimentales recientes señalan que la disfunción de los vasos sanguíneos, en combinación con un aumento de la producción de especies reactivas de oxígeno en las mitocondrias, también podrían favorecer el desarrollo de la enfermedad de Alzheimer.
+
+Sin embargo, cuando analizamos los estudios de intervención, no hay clara evidencia sobre los efectos beneficiosos del consumo de pescado como medida de precaución general para prevenir la incidencia de demencia. Así pues, no parece existir un papel protector directo. Sin embargo, resulta incontrovertible que la suma de un estilo de vida saludable y los distintos factores ambientales (incluido el nivel socioeconómico y educacional) están asociados a un mayor consumo de pescado. Ello sí puede explicar, por tanto, los resultados positivos encontrados en intervención sobre algunos grupos poblacionales y que no se producen en otros.
+
+La evidencia de estudios experimentales sobre los efectos beneficiosos en la suplementación con omega-3 PUFA es insuficiente para recomendar su implementación en la población general, ya sea a nivel de prevención o de tratamiento para la fragilidad cognitiva o para la demencia establecida. Pero las recomendaciones dietéticas para aumentar la cantidad de ingesta de alimentos con omega-3 PUFA y los suplementos que se utilizan en aquellos que sean deficientes en estos ácidos grasos, especialmente de DHA, parece indicado por evidentes razones.
+
+Pueden existir algunas cuestiones relacionadas con los estudios experimentales. Eso podría explicar los débiles resultados reportados hasta ahora. Estudios a más largo plazo parecen ser necesarios para observar los cambios significativos en la función cognitiva en los ensayos de prevención primaria, debido a que los cambios en la función cognitiva eran pequeños, tanto en el grupo tratado como en el brazo de placebo de los ensayos existentes. Una preocupación adicional existe en lo que respecta a la integridad de estos ensayos experimentales, porque la ausencia de limitaciones en el consumo de pescado puede haber disminuido la diferencia en la dieta del grupo de omega-3 PUFA y de los que reciben placebo.
+
+## Micronutrientes antioxidantes
+
+El cerebro es muy sensible al daño oxidativo causado por los radicales libres de oxígeno. El elevado consumo de oxígeno por parte del cerebro (un 20% del consumo total) y la baja concentración de enzimas antioxidantes en comparación
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+con otros tejidos incrementan el riesgo de aparición de estrés oxidativo. Los estudios experimentales sugieren cada vez con mayor fuerza que la acumulación de radicales en los lípidos de la membrana, las proteínas y el ADN ocasionan daños que pueden conducir al deterioro de las células nerviosas del cerebro y a que se produzcan cambios vasculares ateroscleróticos, contribuyendo así a largo plazo al desarrollo de enfermedades neurodegenerativas como la demencia. El aumento de la producción de radicales libres en el cerebro también podría estar desencadenada por el péptido betaamiloide característico de la demencia de Alzheimer, por oligoelementos como el hierro, el cobre y el zinc, así como por un aumento de los niveles de homocisteína. Se cree que el cerebro reacciona de manera más sensible al daño oxidativo asociado con la edad, debido, por ejemplo, al declive de los mecanismos de defensa antioxidante, y que la producción de energía se reduce como resultado de una disfunción mitocondrial. Por consiguiente, la reducción del estrés oxidativo y la protección de las mitocondrias podrían ser un objetivo importante en la prevención y el tratamiento de la demencia. Esta relación se ha investigado especialmente en el caso de la demencia de Alzheimer.
+
+Además de las enzimas antioxidantes producidas por el cuerpo, los micronutrientes de acción antioxidante suministrados a través de los alimentos también podrían ayudar a reducir el estrés oxidativo en el cerebro. La mayoría de los estudios realizados en pacientes de Alzheimer muestran que estos tienen unos niveles bajos de vitamina C y vitamina E. Se cree que el consumo de estas vitaminas aumenta debido al mayor estrés oxidativo provocado por la enfermedad. Las vitaminas E y A liposolubles, como el betacaroteno, podrían proteger las membranas fosfolipídicas de las células nerviosas frente al daño oxidativo que parece estar asociado con el desarrollo de la demencia de Alzheimer. La vitamina E, en particular, es capaz de interrumpir las reacciones en cadena de los radicales en las membranas fosfolipídicas (oxidación lipídica). La vitamina C hidrosoluble podría prevenir la formación de radicales y los daños que estos producen en componentes del interior acuoso de las células. Los estudios clínicos sugieren que la administración combinada de vitamina C y vitamina E durante al menos 3 años está asociada con una reducción de la incidencia relativa y la primera aparición de la demencia de Alzheimer. Existen pruebas de que la vitamina A, el betacaroteno, la vitamina E y la vitamina C pueden prevenir la formación de los depósitos de betaamiloide que dañan las células nerviosas. Considerando los posibles efectos vasculoprotectores de los micronutrientes antioxidantes, estos también podrían contribuir a la prevención de la demencia vascular, como demuestran los estudios llevados a cabo con las vitaminas E y C.
+
+Los flavonoides son una clase de metabolitos secundarios de plantas, responsable entre otras cosas de su coloración. Fuente de flavonoides son chocolate negro, frijoles secos, cítricos, uvas, manzanas, bayas, frutos secos, hierbas (tomillo,
+---
+perejil, apio, pimientos picantes), los alimentos de soja, té, verduras (brócoli, col,
+cebollas, cebolletas), y el vino con tanino. El término incluye varias estructuras
+químicas diferentes. Los flavonoides tienen propiedades antioxidantes, sirvien-
+do de soporte a la vitamina C, ayudando a controlar los mecanismos inflamato-
+rios y algunos casos incluso tienen propiedades antibióticas.
+
+*Actualmente no hay pruebas suficientes, ya sea a partir de estudios longitudina-
+les o los ensayos controlados aleatorios, para apoyar el papel de los antioxidan-
+tes en la cognición. Las únicas asociaciones consistentes fueron reportados en
+los estudios con vitamina E, utilizando cuestionarios de frecuencia de consumo,
+en lugar de medidas bioquímicas, lo que sugiere que se necesitan más trabajos
+para comprender mejor estos nutrientes y su relación con la demencia.*
+
+Del mismo modo, los oligoelementos zinc y selenio tienen un papel importante
+en el metabolismo del cerebro. El zinc es relevante como cofactor para las en-
+zimas antioxidantes (oxidorreductasas), aumenta la formación de un factor de
+crecimiento de las células nerviosas (factor neurotrópico derivado del cerebro) y
+actúa como cofactor de los receptores neuronales. La función más conocida es
+la del selenio como componente de la enzima glutatión peroxidasa, de especial
+importancia en la defensa antioxidante (concretamente de la oxidación lipídica).
+Los estudios sobre la relación del zinc o el selenio con el desarrollo de la demen-
+cia son muy limitados y contradictorios. Un estudio de cohortes a gran escala
+ha demostrado que las personas con unos niveles bajos de selenio en la sangre
+presentan un mayor riesgo de deterioro cognitivo.
+
+## Vitamina D
+
+Entre las muchas funciones de la vitamina D, esta parece afectar al sistema
+nervioso central. Se han descubierto receptores de vitamina D en varias áreas
+claves del cerebro con una gran abundancia de neuronas. Por otra parte, se ha
+demostrado que hay enzimas en el cerebro que estimulan la síntesis local de
+calcitriol (la forma activa de la vitamina D). De acuerdo con los estudios expe-
+rimentales, debido a sus múltiples mecanismos de acción, esta vitamina podría
+tener un efecto antiinflamatorio y protector de los vasos sanguíneos y las células
+nerviosas, contrarrestando el desarrollo de la demencia. Los estudios epidemio-
+lógicos indican que una deficiencia de vitamina D puede constituir un factor de
+riesgo para la pérdida de las funciones cognitivas y la aparición de demencia.
+En un estudio observacional prospectivo realizado durante un periodo superior
+a 30 años con más de 10.000 participantes, se demostró que aquellos sujetos
+que desarrollaron durante este tiempo una demencia de Alzheimer o vascular
+tenían unos niveles deficientes de vitamina D en la sangre. Asimismo, ciertas
+características genéticas, que se manifiestan en una disminución de la actividad
+de los receptores de vitamina D, parecen contribuir a un aumento del riesgo
+de padecer una demencia de Alzheimer. Un metaanálisis reciente reveló que
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+En los estudios observacionales y de intervención, los pacientes de Alzheimer presentan unos niveles bajos de vitamina D. Existen además indicios de que en los pacientes de Alzheimer la vitamina D podría ayudar a las células del sistema inmunitario (macrófagos) a eliminar los depósitos (placas de betaamiloide) propios de esta enfermedad.
+
+Para prevenir la demencia, los científicos recomiendan unos niveles mínimos de vitamina D en sangre de 30 ng/ml, los cuales se pueden alcanzar mediante una exposición suficiente a la luz solar, un aporte adecuado de esta vitamina a través de la dieta o el consumo de suplementos con al menos 800 UI de vitamina D al día. En un posterior ensayo clínico se demostró que un aumento de los niveles de vitamina D puede influir positivamente en las capacidades mentales que controlan el pensamiento y la acción. En la fase preclínica de la enfermedad de Alzheimer se observa a menudo un deterioro de estas funciones ejecutivas.
+
+## Vitaminas B
+
+Casi el 50% de todas las personas de edad avanzada aparentemente sanas presentan unos niveles sanguíneos altos de homocisteína, un aminoácido que se forma a partir del metabolismo de la proteína. Los resultados experimentales ponen de manifiesto que una concentración alta de homocisteína en la sangre destruye las células de la sangre que recubren el interior de los vasos sanguíneos (endotelio), favorece la formación de trombosis y puede aumentar el nivel de colesterol LDL, factores todos ellos que propician el desarrollo de aterosclerosis y enfermedades cardiovasculares. Estudios recientes indican efectos perjudiciales para las células del cerebro. Asimismo, se ha demostrado que los pacientes con demencia vascular y enfermedad de Alzheimer a menudo tienen unos valores altos de homocisteína, lo que supone un factor de riesgo para la demencia. Varios estudios han informado de que la administración selectiva de ácido fólico, vitamina B₆ y vitamina B₁₂ reduce los niveles de homocisteína y, por lo tanto, el riesgo de sufrir problemas circulatorios en el cerebro.
+
+En estudios tanto epidemiológicos como clínicos se ha demostrado que unos niveles bajos de homocisteína y un suministro adecuado de vitaminas B₆, B₉ y B₁₂ están asociados con un menor riesgo de desarrollar demencia de Alzheimer, y que una suplementación con vitaminas del complejo B puede ayudar a disminuir los valores de homocisteína y el riesgo de padecer la enfermedad de Alzheimer y sus primeros síntomas. De acuerdo con un estudio observacional, unos niveles altos de homocisteína son un factor de riesgo que puede predecir la aparición de la enfermedad de Alzheimer al menos 7 años antes de que se manifiesten los primeros síntomas clínicos. Además, el aumento del nivel de vitamina B₁₂ redujo significativamente el riesgo de desarrollar Alzheimer.
+
+Pues bien, aunque hasta el momento los estudios de cohorte han proporcionado pruebas concluyentes sobre la asociación entre la deficiencia de vitamina B y el de-
+---
+terioro cognitivo, confirmando que un alto nivel de homocisteína estaba asociado
+con la cognición más pobre, los ensayos controlados aleatorios han demostrado
+que la suplementación con vitaminas B puede reducir constantemente los niveles de
+homocisteína, pero esto no significa necesariamente que se traduzcan en deterioro
+cognitivo más lento, ni la mejora de la función cognitiva ni la reducción de la inci-
+dencia de la demencia. Es importante señalar que los más alentadores resultados
+han sido reportados en los individuos con un mayor nivel de homocisteína basal, lo
+que sugiere que las personas con deficiencias claras y definidas pueden ser quienes
+más pueden beneficiarse de la suplementación de vitamina B.
+
+## CONCLUSIONES GENERALES
+
+Actualmente no hay pruebas suficientes para confirmar una relación entre los
+micro y macronutrientes descritos anteriormente (vitamina B₆, B₁₂, ácido fólico, vi-
+tamina C, vitamina E, flavonoides, ácidos grasos omega-3, la dieta mediterránea)
+y la función cognitiva. Aunque algunos estudios han mostrado resultados posi-
+tivos, particularmente aquellos que usan diseños transversales, los resultados en
+las intervenciones preventivas no lo han apoyado sistemáticamente, ni de forma
+estadísticamente significativa, en los estudios de cohorte prospectivos y, por otra
+parte, ha fracasado en general en los ensayos controlados aleatorizados.
+
+Varios estudios de 2011 y 2012, que analizan los resultados de la intervención
+con dieta y micronutrientes y revisado actualmente por la Alzheimer's disease
+International en 2014, nos revelan que, hasta ahora, no hay evidencia para reco-
+mendar el uso de micronutrientes ni los suplementos nutricionales en ninguna
+de las etapas de la demencia, ni para la fragilidad cognitiva o para su prevención
+en la edad anciana. Sin embargo, la administración de suplementos en pacien-
+tes con problemas en la cognición va en aumento, constituye un gran mercado,
+tanto en Europa como en los Estados Unidos; casi 15 millones de estadouniden-
+ses consumieron suplementos en el último año, dados los efectos demostrados
+de algunos micronutrientes en la vida adulta y de forma empírica.
+
+En este capítulo, hemos demostrado que existe, sin embargo, una fuerte base
+teórica para implicar a estas deficiencias de micronutrientes en los mecanismos
+conocidos de la degeneración cerebral, y que los resultados negativos pueden
+ser el resultado de problemas metodológicos con diseños de los estudios ac-
+tuales, con una clara discrepancia entre estudios epidemiológicos descriptivos
+y los estudios de intervención. La principal limitación es que han sido pocos los
+ensayos estudiados, de poca potencia. La duración de la suplementación puede
+haber sido demasiado corta para demostrar un efecto. También se ha sugerido
+que la suplementación simultánea con múltiples micronutrientes (ácidos grasos,
+fosfolípidos, vitaminas E, C, ácido fólico y B₆) podría ser necesaria sinérgicamen-
+te para mejorar las sinapsis y, por tanto, la funcionalidad cerebral. Sin embargo,
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+los resultados de los alimentos enriquecidos ya disponibles solo muestran una cierta mejora en las tareas cognitivas específicas, pero no en la cognición en general, el estado clínico o la funcionalidad general. Por otra parte, la mayoría de los estudios no se han centrado en personas con carencias de los micronutrientes suplementados. Se ha postulado que la suplementación puede no ser efectiva porque los niveles de nutrición de las poblaciones rurales están al nivel óptimo y que la mayoría de los nutrientes tienen una forma de U, no lineal, de asociación invertida con funciones fisiológicas. Esto parece ser confirmado por los pocos estudios revisados en el metaanálisis en los que se requiere expresamente entre sus criterios de inclusión que los participantes reclutados en el mismo deben ser deficiente en micronutrientes.
+
+Por tanto, y como conclusión final, necesitamos más estudios metodológicamente correctos, sin sesgos, amplios y de intervención que corroboren las expectativas razonablemente generadas por los estudios epidemiológicos en la relación inequívoca entre la fragilidad cognitiva y la nutrición.
+
+## BIBLIOGRAFÍA RECOMENDADA
+
+Alzheimer's Disease International: Nutrition and dementia; A review of available reserch. London. February 2014; (3):31-44.
+
+Chiu CC, et al. The effects of omega-3 fatty acids monotherapy in Alzheimer's disease and mild cognitive impairment: a preliminary randomized double-blind placebo-controlled study. Prog Neuropsychopharmacol Biol Psychiatry 2008; 32(6):1.538-44.
+
+Devore EE, et al. The association of antioxidants and cognition in the Nurses Health Study. American Journal of epidemiology 2013 Jan 1; 177(1):33-41.
+
+Feart C, Torres MJ, et al. Adherence to a Mediterranean diet and plasma fatty acids: data from the Bordeaux sample of the Three-city-study. The British journal of nutrition 2011 Jul; 106(1):149-58.
+
+Hu N, et al. Nutrition and the Risk of Alzheimer's Disease. Biomed Res Int. Published online June 2013.
+
+Li FJ, et al. Dietary intakes of vitamin E, vitamin C, and β-carotene and risk of Alzheimer's disease: a meta-analysis. J Alzheimers Dis 2012; 31(2):253-8.
+
+Morris MC, et al. Consumption of fish and n-3 fatty acids and risk of incident Alzheimer disease. Arch Neur 2003; 160:940-6.
+
+Morris MS. The role of B Vitamins in preventing and treating cognitive impairment and decline. Adv Nutr Nov 2012; 36(6)9:801-12.
+
+Scarmeas N, Stern Y, Tang MX. Mediterranean diet and risk for Alzheimer's disease. Annals of neurology 2006 Jun; 59(6):912-21.
+
+Schrag M, et al. Oxidative stress in blood in Alzheimer's disease and mild cognitive impairment: A meta-analysis. Neurobiol Dis 2013; 59:100-10.
+---
+# Valoración nutricional en ancianos frágiles
+
+Dra. Pilar Matía Martín y Dr. Iñaki Artaza Artabe
+
+## VALORACIÓN NUTRICIONAL EN EL HOSPITAL
+(Dra. Pilar Matía Martín)
+
+### PREVALENCIA DE DESNUTRICIÓN EN EL HOSPITAL
+
+La desnutrición calórico-proteica dentro del ámbito hospitalario es un hecho indiscutible, cuya prevalencia en ancianos españoles alcanza entre un 12,5 y un 78,9% en los trabajos publicados. En un estudio multicéntrico español reciente, la desnutrición afectó a un 23,7% de los ingresos. Entre otros, la edad, la disfagia, el diagnóstico de diabetes mellitus (DM) y la polimedicación, habituales en mayores frágiles, se asociaron de forma independiente con el riesgo de desnutrición. En otro trabajo multicéntrico de nuestro medio, sobre ancianos con DM, un 39,1% tuvo riesgo de desnutrición, y desnutrición establecida un 21,2%.
+
+Puesto que durante la hospitalización la desnutrición se asocia con aumento de los costes por proceso, con la estancia media y con el pronóstico clínico, su detección precoz parece relevante en un intento de minimizar su impacto.
+
+Los procesos de cribado de desnutrición y de valoración nutricional reflejados a continuación suponen la metodología habitual que debería seguirse durante la enfermedad aguda, pero no se han encontrado referencias específicas para ancianos frágiles en este sentido, salvo en los datos referidos al cribado.
+
+### DESPISTAJE DE DESNUTRICIÓN
+
+Se recomienda que todos los hospitales dispongan de protocolos para valorar el riesgo al ingreso y un plan de cuidados posterior que debe extenderse más allá de la propia hospitalización. En el Consenso Multidisciplinar sobre el Abordaje de la Desnutrición en España se afirma que en las primeras 24-48 horas del ingreso hospitalario debe realizarse un screening de desnutrición para que sea detectada precozmente (grado de recomendación A).
+
+Los objetivos del despistaje de desnutrición son predecir el pronóstico clínico debido a factores nutricionales y estimar si el tratamiento nutricional puede modificar
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+aquel. Generalmente, la sobrecarga asistencial hospitalaria requiere herramientas sencillas y rápidas de despistaje que pueden completarse, si es necesario, con una valoración nutricional más minuciosa. Dichas herramientas deben mantener un buen valor predictivo sobre el curso clínico en función del tratamiento nutricional, alta fiabilidad o correlación interobservador y adecuada validez de contenido, sin ítems redundantes. Pero también han de ser prácticas e ir asociadas a medidas concretas de actuación en función del resultado de la valoración.
+
+En ancianos se han utilizado diversas técnicas de despistaje de desnutrición. Entre ellas merece la pena destacar:
+
+- Mini Nutritional Assessment (MNA)
+- Mini Nutritional Assessment-Short Form (MNA-SF)
+
+ESPEN (The European Society for Clinical Nutrition and Metabolism) recomienda emplear la herramienta MNA porque puede detectar el riesgo o la desnutrición en ancianos frágiles mejor y más precozmente, y porque además de tener en cuenta aspectos físicos y sociales relevantes, incluye un cuestionario dietético. El cuestionario MNA ha sido evaluado en Unidades de Agudos y, en ellas, se ha observado una relación inversa entre puntuación final y mortalidad. Con el fin de simplificar su aplicación, se desarrolló la forma abreviada del cuestionario (MNA-SF; tabla 1) demostrando una fuerte correlación con el MNA global (r = 0,945). Utilizando un punto de corte de normalidad ≥ 11, su sensibilidad para detectar desnutrición es de un 97,9%, su especificidad de un 97,9% y su valor predictivo positivo del 98,7%. También ha sido empleado en ancianos hospitalizados con resultados dispares cuando se ha comparado con otras estrategias de valoración nutricional, resultando en general el más sensible para detectar riesgo, aunque menos específico. Debe tenerse en cuenta que el MNA se concibió como otra herramienta más de la valoración integral geriátrica, y que en su descripción original, el momento de administración se situó en la admisión hospitalaria.
+
+No obstante, en una revisión sistemática sobre la evidencia de la validación llevada a cabo con la herramienta MNA, se comenta que fue desarrollado con el fin de identificar a ancianos sanos o frágiles en riesgo de desnutrición, pero que para los ancianos hospitalizados los resultados posteriores de validación no son concluyentes. Algo similar ocurre con MNA-SF. Presenta una alta sensibilidad cuando se compara con otros métodos de referencia, pero baja especificidad (detecta a demasiados pacientes en riesgo cuando, de hecho, no están desnutridos). Sin embargo, es un buen sustituto de la versión completa del MNA. Desde un punto de vista de predicción pronóstica, la versión completa solo podría ser útil para predecir mortalidad y estancia media, pero los estudios no permiten extraer conclusiones firmes. No hay evidencia sobre predicción de complicaciones. El MNA-SF no es un instrumento válido para predecir eventos clínicos en esta población.
+---
+| Tabla 1. Mini Nutritional Assessment-Short Form (MNA-SF) |
+|---------------------------------------------------------------|
+
+| A. ¿Ha comido menos por falta de apetito, problemas digestivos, dificultades de masticación o deglución en los últimos 3 meses? |
+|:-----------------------------------------------------------|
+| 0 = Ha comido mucho menos. |
+| 1 = Ha comido menos. |
+| 2 = Ha comido igual. |
+
+| B. Pérdida reciente de peso (< 3 meses). |
+|:----------------------------------------|
+| 0 = Pérdida de peso > 3 kg. |
+| 1 = No lo sabe. |
+| 2 = Pérdida de peso entre 1 y 3 kg. |
+| 3 = No ha habido pérdida de peso. |
+
+| C. Movilidad. |
+|:-------------|
+| 0 = De la cama al sillón. |
+| 1 = Autonomía en el interior. |
+| 2 = Sale del domicilio. |
+
+| D. ¿Ha habido alguna enfermedad aguda o situación de estrés psicológico en los últimos 3 meses? |
+|:-------------------------------------------------------------------------------------------|
+| 0 = Sí. |
+| 2 = No. |
+
+| E. Problemas neuropsicológicos. |
+|:--------------------------------|
+| 0 = Demencia o depresión severa. |
+| 1 = Demencia o depresión moderada. |
+| 2 = Sin problemas psicológicos. |
+
+| F1. Índice de masa muscular (IMC = Peso/Talla²-kg/m²). |
+|:---------------------------------------------------|
+| 0 = IMC < 19. |
+| 1 = IMC entre 19 y < 21. |
+| 2 = IMC entre 21 y < 23. |
+| 3 = IMC ≥ 23. |
+
+Si el IMC no está disponible, por favor, sustituya la pregunta F1 con la F2.
+No conteste la pregunta F2 si ha podido contestar a la F1.
+
+| F2. Circunferencia de la pantorrilla (CP en cm). |
+|:----------------------------------------------|
+| 0 = CB < 31. |
+| 3 = IMC ≥ 31. |
+
+Puntuación del cribado (máximo 14 puntos):
+
+| Puntuación | Interpretación |
+|:-----------|:---------------|
+| 12-14 puntos | estado nutricional normal. |
+| 8-11 puntos | riesgo de malnutrición. |
+| 0-7 puntos | malnutrición. |
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+### Nutritional Risk Screening (NRS 2002)
+
+Si no es posible emplear la herramienta MNA, se recomienda realizar el cribado mediante el cuestionario NRS 2002 (tabla 2). Con él se obtiene una puntuación que tiene en cuenta tanto el estado nutricional como la gravedad de la enfermedad subyacente. El NRS 2002 ha sido validado a través del análisis retrospectivo de 128 ensayos clínicos sobre pronóstico clínico tras intervención nutricional. De ellos, 10 se habían realizado en ancianos de 70 o más años de edad, y a pesar de que no existía un gran deterioro nutricional, ni una severidad extrema de la patología motivo de estudio, el beneficio del soporte nutricional fue relevante. Por este motivo se decidió ajustar el valor total de esta herramienta en función de la edad (añadiendo 1 punto al total obtenido por encima de los 69 años).
+
+### Tabla 2. Nutritional Risk Screening (NRS 2002)
+
+| Screening inicial o pre-screening | SÍ | NO |
+|-----------------------------------|----|----|
+| ¿Es el índice de masa corporal (IMC) < 20,5? | | |
+| ¿Ha perdido el paciente peso en los últimos 3 meses? | | |
+| ¿Ha reducido el paciente su ingesta en la última semana? | | |
+| ¿Está el paciente gravemente enfermo? (por ejemplo, en cuidados intensivos) | | |
+
+Si la respuesta es SÍ a cualquiera de las preguntas, se realizará el screening final.
+Si la respuesta es NO a todas las preguntas, el paciente será reevaluado semanalmente.
+
+#### Screening final
+
+| Alteración del estado nutricional | Severidad de la enfermedad |
+|-----------------------------------|----------------------------|
+| Ausente<br>Puntos = 0<br>Estado nutricional normal | Ausente<br>Puntos = 0<br>Requerimientos nutricionales normales |
+| Leve<br>Puntos = 1<br>Pérdida de peso > 5% en 3 meses o ingesta < 50-75% de requerimientos en la semana previa | Leve<br>Puntos = 1<br>Fractura de cadera<br>Pacientes crónicos con complicaciones agudas (cirrosis, enfermedad pulmonar obstructiva crónica, hemodiálisis, diabetes, oncología) |
+| Moderada<br>Puntos = 2<br>Pérdida de peso > 5% en 2 meses o IMC 18,5-20,5 con alteración del estado general o ingesta 25-50% de requerimientos en la semana previa | Moderada<br>Puntos = 2<br>Cirugía mayor abdominal<br>Ictus<br>Neumonía grave<br>Tumor hematológico |
+---
+## Tabla 2. Nutritional Risk Screening (NRS 2002) (continuación)
+
+### Screening final
+
+| Alteración del estado nutricional | Severidad de la enfermedad |
+|-----------------------------------|----------------------------|
+| Grave<br>Puntos = 3<br>Pérdida de peso > 5% en 1 mes o IMC < 18,5 con alteración del estado general o ingesta 0-25% de requerimientos en la semana previa | Grave<br>Puntos = 3<br>Lesión craneal<br>Trasplante de médula ósea<br>Pacientes en UCI (APACHE > 10) |
+
+**Puntos** + **Puntos**
+
+**Puntuación final:**
+- Elegir la puntuación de la alteración del estado nutricional (solo una; ha de elegirse la variable con la puntuación más alta) y de la severidad de la enfermedad.
+- Sumar las dos puntuaciones.
+- Si la edad es ≥ 70 años: añadir 1 punto al valor final para corregir por la fragilidad del anciano.
+- Si el total es ≥ 3: iniciar un plan nutricional.
+
+## Geriatric Nutritional Risk Index (GNRI)
+
+Diseñado de forma específica con el propósito de predecir morbimortalidad, estancia media y complicaciones posoperatorias, su valor predictivo se describió en un estudio retrospectivo que incluía ancianos que recibían soporte nutricional. En él no se observó ninguna correlación con estancia media, duración de la nutrición o complicaciones. Posteriormente se han publicado otros trabajos con series de casos que ofrecen resultados contradictorios sobre este fin. Así, queda por definir la validez predictiva de esta herramienta (tabla 3).
+
+## Tabla 3. Geriatric Nutritional Risk Index (GNRI)
+
+| GNRI = 1,519 x albúmina (g/l)<br>+ 41,7 x (peso actual/peso habitual –kg–) | Riesgo | Punto de corte |
+|--------------------------------------------------------------------------|--------|----------------|
+|                                                                          | Severo | < 82           |
+|                                                                          | Moderado | 82 - < 92    |
+|                                                                          | Bajo | 92-98           |
+|                                                                          | Ausente | > 98          |
+
+## Malnutrition Universal Screening Tool (MUST)
+
+Inicialmente se diseñó para predecir el curso clínico en adultos y en ancianos hospitalizados (figura 1). Establece tres categorías de riesgo: bajo, medio y alto, y recomienda una serie de actuaciones en función del contexto. Incluye la valoración del índice de masa corporal (IMC), el cambio en el peso y la detección de cualquier enfermedad que suponga una restricción de la ingesta alimentaria más allá de 5 días. ESPEN la recomienda como herramienta de despistaje en el medio comunitario, pero en muchas instituciones se está empleando sistemáticamente en hospitaliza-
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+### Figura 1. Malnutrition Universal Screening Tool (MUST)
+
+| Paso 1 | Paso 2 | Paso 3 |
+|--------|--------|--------|
+| IMC (kg/m²)<br>0 = ≥ 20<br>1 = 18,5-20<br>2 = ≤ 18,5 | Pérdida de peso<br>en 3-6 meses<br>0 = ≤ 5%<br>1 = 5-10%<br>2 = ≥ 10% | Paciente con enfermedad aguda<br>y que ha estado o es probable<br>que esté sin aporte nutricional<br>durante más de 5 días.<br>0 = No<br>2 = Sí |
+
+Paso 1 + Paso 2 + Paso 3
+
+#### Paso 4: riesgo global de de desnutrición
+0: Bajo riesgo. 1: Riesgo medio. ≥ 2: Riesgo alto
+
+#### Paso 5: Guías de manejo
+
+##### 0: Bajo riesgo
+Repita el cribado:
+- Hospital: semanalmente.
+- Residencias de mayores: mensualmente.
+- Atención Primaria: anualmente a grupos especiales (por ejemplo, > 75 años).
+
+##### 1: Riesgo medio
+Cuando el paciente se encuentre hospitalizado o en una residencia de mayores,
+mantenga un registro de la ingesta diaria del paciente por un periodo de 3 días.
+En caso:
+- De mejoría o ingesta adecuada: baja relevancia clínica.
+- De que no se observe mejoría: relevancia clínica, siga el protocolo del centro.
+Repita el cribado:
+- Hospital: semanalmente.
+- Residencias de mayores: como mínimo mensualmente.
+- Atención Primaria: como mínimo cada 2-3 meses.
+
+##### ≥ 2: Riesgo alto. Tratamiento*
+- Refiera al dietista, al equipo de soporte nutricional o simplemente siga las directrices
+  locales.
+- Mejore e incremente la alimentación global del paciente.
+- Controle y revise el plan de cuidados:
+  • Hospital: semanalmente.
+  • Residencias de mayores: mensualmente.
+  • Atención Primaria: mensualmente.
+
+\* A menos que sea perjudicial o no se obtenga ningún beneficio del apoyo nutricional (por ejemplo, muerte
+inminente).
+---
+dos por su simplicidad. Se necesitan más estudios clínicos para confirmar la validez predictiva de esta herramienta en la población de ancianos hospitalizados.
+
+Ya desde una perpectiva más general, en una revisión publicada recientemente sobre pacientes ancianos (Van Bokhorst-de van der Schueren), bajo una óptica metodológica muy cuidada, las herramientas contempladas específicamente para valorar la situación nutricional de los ancianos hospitalizados, fueron NRI (Nutritional Risk Index), MNA, MNA-SF, NUFFE (Nutritional Form For The Elderly), Simple screening tool I and II, MEONF-II (Minimal Eating Observation and Nutrition forme version II), Rapid Screen, Nutrition Screening Initiative y Chandra Nutrition Screen. La conclusión general sobre la validez de constructo de estas herramientas es que ninguna funcionó de forma consistente en estudios posteriores. Así, los autores no se decantan por ninguna herramienta de detección de desnutrición en ancianos hospitalizados.
+
+Solo se recoge una herramienta diseñada en ancianos hospitalizados con el fin de predecir pronóstico clínico: Geriatric Nutritional Risk Index (GNRI). Los mismos autores concluyen que ninguna de las herramientas específicas para la población geriátrica consigue predecir el curso de la enfermedad durante la hospitalización.
+
+Otra revisión (Skiper) ha establecido una graduación en las herramientas en función de la calidad de los estudios sobre validez y fiabilidad. Así, NRS-2002 fue situada en el grado I (alta evidencia), MNA-SF, MST (Malnutrition Screening Tool) y MUST en el grado II. El resto fueron graduadas en un nivel III o menor.
+
+Elia y Stratton, sin embargo, difieren en cierta manera de estas aproximaciones, puntualizando que la edad, por sí misma, puede predecir mortalidad y estancia media de forma más efectiva que las herramientas de despistaje de desnutrición. En este sentido, si el asunto de interés es la predicción del pronóstico a través de la intervención nutricional, la edad sigue siendo más importante. También afirman que ninguno de los cuestionarios es suficientemente bueno para ser propuesto como un método predictivo adecuado en ancianos.
+
+A pesar de toda esta controversia en población geriátrica, en el Consenso Multidisciplinar sobre el Abordaje de la Desnutrición en España, y teniendo en cuenta el conjunto de pacientes hospitalizados, se acepta que cada centro tenga el método de cribado que sea más apropiado según sus características. Las variables mínimas que debe contener son: IMC (< 18,5 kg/m²), cambios involuntarios en el peso corporal (pérdida de peso > 5% en 3 meses o > 10% en 6 meses) y modificaciones en el patrón habitual de ingesta de alimentos en el mes previo (grado de recomendación D). El despistaje debe llevarse a cabo por sanitarios directamente involucrados en el cuidado del paciente (grado de recomendación D). Pero en cualquier caso, ha de garantizarse que los pacientes con resultado positivo puedan identificarse para implementar acciones de soporte posteriormente (grado de recomendación D). Aquellos con cribado negativo deben reevaluarse con una frecuencia variable, en función de la condición del paciente y de los factores de riesgo nutricional detectados, pero con una periodicidad mínima semanal (grado de recomendación D).
+---
+Envejecimiento y Nutrición
+PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+## VALORACIÓN NUTRICIONAL
+
+En los pacientes con riesgo de desnutrición, debe llevarse a cabo una valoración nutricional más minuciosa para completar la prescripción terapéutica. Ha de realizarse por profesionales entrenados y con experiencia, de acuerdo con los recursos disponibles. La metodología dependerá de las características del paciente, así como de la evidencia científica disponible (grado de recomendación D; Consenso Multidisciplinar sobre el Abordaje de la Desnutrición en España).
+
+Los datos que pueden aportar luz sobre la situación nutricional del enfermo son:
+
+### Parámetros antropométricos
+
+Suelen ser difíciles de obtener en ancianos hospitalizados que permanecen generalmente encamados. Además, pueden presentarse alterados por cambios en el porcentaje hídrico corporal durante la enfermedad aguda (edema).
+
+El peso debería medirse por medio de sillones-báscula o pesos de cama, y reevaluarse de forma tanto retrospectiva como prospectiva, para valorar el cambio de peso corporal: % pérdida de peso = [(peso habitual – peso actual) / peso habitual] x 100.
+
+La talla puede determinarse directamente, o a través de fórmulas predictivas como:
+
+Fórmula altura rodilla-talón de Chumlea:
+- Hombre = (2,02 x altura rodilla) - (0,04 x edad) + 64,19
+- Mujer = (1,83 x altura rodilla) - (0,24 3 edad) + 84,88
+
+Fórmula rodilla-maléolo de Arango y Zamora:
+- Hombre = (LRM x 1,121) – (0,117 x edad) + 119,6
+- Mujer = (LRM x 1,263) – (0,159 x edad) + 107,7
+
+Donde LRM es la longitud rodilla-maléolo.
+
+Las circunferencias braquial y de la pantorrilla, así como los pliegues cutáneos (tricipital, bicipital, abdominal, suprailiaco y escapular) y sus parámetros derivados (circunferencia muscular del brazo), podrían utilizarse para compararlas con tablas poblacionales de referencia –no actualizadas en España con la tendencia secular–, o para llevarlas a fórmulas de estimación de la composición y el peso corporales. Sin embargo, en la práctica hospitalaria diaria no se utilizan habitualmente por su dificultad en mostrar cambios en un corto periodo de tiempo.
+
+### Parámetros bioquímicos
+
+Clásicamente se han utilizado los linfocitos totales, y los valores séricos de albúmina, prealbúmina, transferrina, proteína ligada a retinol, creatinina y colesterol total. Sin embargo, debe tenerse en cuenta que cualquiera de ellos puede estar alterado por la inflamación y la enfermedad aguda, y que suelen comportarse más como predictores de mal pronóstico o como reactantes de fase aguda negativos. En el hospital suelen valorarse conjuntamente con la proteína C reactiva (PCR), para tener una visión más global de la situación del paciente.
+---
+# Registro de ingesta
+
+De entre los métodos de valoración de la ingesta de alimentos –registros, cuestionario de frecuencia de consumo, historia dietética y recordatorio de 24 horas– el último resulta más práctico en el ámbito hospitalario. Se han diseñado algunas láminas que permiten estimar la ingesta de todas las comidas y bebidas del día previo, al tiempo que se pregunta al paciente por qué no tomó todos los productos ofrecidos (apetito, incomodidad…).
+
+# Herramientas específicas
+
+De la misma forma que para el cribado nutricional, se han desarrollado cuestionarios que permiten tener una idea más global de la situación nutricional del paciente. Algunos de ellos aparecen también recogidos entre las herramientas de despistaje, así que la posibilidad podría ser doble.
+
+Entre ellas cabe mencionar: MNA en su versión completa en ancianos geriátricos (puede calcularse on-line a través del siguiente enlace: http://www.seen.es/nutricion-interactiva/mna.html–, último acceso: 4-4-2014) y la valoración global subjetiva (VGS), que ha mostrado un gran acuerdo con otras herramientas en estudios sobre pacientes hospitalizados de forma global (figura 2).
+
+# Fuerza muscular
+
+En pacientes frágiles, la fuerza prensora de la mano (FPM), determinada mediante dinamómetro, se utiliza para valorar la fuerza muscular. Según el Consenso Europeo, para el diagnóstico de sarcopenia –una de las situaciones asociadas a fragilidad– es necesario mostrar valores bajos de esta medida (junto con disminución de la masa muscular y deficiencia en las pruebas de función). Recientemente se ha publicado un trabajo sobre prevalencia de sarcopenia en pacientes agudos geriátricos con datos similares a los obtenidos de pacientes ambulatorios (sarcopenia: 6,6%; sarcopenia severa: 18,7%).
+
+Además, es un marcador nutricional. Se ha observado una relación evidente entre la FPM y el estado nutricional en pacientes hospitalizados, incluso tras tener en cuenta otros factores, como la edad, el descenso de la actividad funcional, el índice de comorbilidad de Charlson y el número de fármacos prescritos.
+
+# Composición corporal
+
+De las múltiples herramientas que existen para valorar los compartimentos corporales, la bioimpedancia (BIA) y la densitometría dual de doble energía (DEXA) han sido las más utilizadas en la práctica diaria. En este contexto, debe tenerse en cuenta que la estimación de masa grasa, masa libre de grasa y masa muscular a partir de fórmulas de regresión mediante BIA puede ser errónea por cambios en el estatus hídrico en los pacientes agudos. En estos casos, la bioimpedancia vectorial (BIVA)
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+puede ser útil para estandarizar resultados a partir de los valores crudos de resisten-
+cia, reactancia y ángulo de fase.
+
+En pacientes ingresados, un ángulo de fase bajo se asoció a peor estado nutricional
+determinado con VGS y NRS-2002, y a estancias medias y mortalidad más elevadas.
+
+### Figura 2. Valoración global subjetiva (VGS)
+
+| Valoración Global Subjetiva |
+|------------------------------|
+| (Señale la categoría adecuada o ponga el valor numérico donde indique #) |
+
+#### A. Historia Clínica
+
+1. Cambio de peso
+   Pérdida de peso en los últimos 6 meses Total: #_____ kg; % perdido#_____
+   Cambio en las últimas 2 semanas: __ aumento, __no cambio, __ descenso
+
+2. Cambios en la ingesta alimentaria (en relación a lo habitual)
+   ____ no cambio
+   ____ cambio ____ duración= # _____ semanas
+                   ____ tipo: ____ subóptima dieta sólida ____ dieta líquida
+                              ____ líquidos hipocalóricos ____ ayuno
+
+3. Síntomas gastrointestinales ( duración > 2 semanas)
+   ____ ninguno, ____ náusea, ____ vómitos, ____ diarrea, ____anorexia
+
+4. Capacidad funcional
+   ____ no disfunción
+   ____ disfunción ____ duración = #_____ semanas
+                   ____ tipo:    _______ trabajando subóptimo
+                                 _______ ambulatorio
+                                 _______ acostado
+
+5. Enfermedad y su relación con las necesidades energéticas
+   Diagnóstico primario(especificar):_______________________________
+   Demanda metabólica (stress): ____no stress, ______stress bajo,
+                                ____stress moderado, _____stress elevado
+
+#### B. Examen físico (para cada uno especificar: 0=normal, 1= leve, 2=moderado, 3=severo)
+
+| # | Criterio |
+|---|----------|
+| _____ | pérdida de tejido graso subcutáneo (tríceps, tórax) |
+| _____ | pérdida de masa muscular (cuádriceps, deltoides) |
+| _____ | edema maleolar |
+| _____ | edema sacro |
+| _____ | ascitis |
+
+#### C. Valoración global subjetiva (graduación)
+
+______ A= bien nutrido
+______ B= moderadamente o sospecha de estar desnutrido
+______ C= severamente desnutrido
+
+Detsky. J Parenter Enteral Nutr 1987; 11:8-13.
+---
+# Otros
+
+En pacientes geriátricos, y con la idea de mantener los cuidados tras el alta hospitalaria, deben investigarse otros factores, como apetito, nivel de saciedad, alteraciones del gusto, aversiones alimentarias, tránsito intestinal, disfagia, trastornos de la masticación, enfermedades crónicas que afecten a la disponibilidad y metabolismo de nutrientes, indicaciones sobre restricciones dietéticas, alergias e intolerancias alimentarias, medicación, actividad y ejercicio físico y capacidad para comprar y cocinar los alimentos.
+
+Finalmente, cada hospital debería definir los protocolos diagnósticos de desnutrición hospitalaria y los circuitos de actuación (consenso de expertos; Consenso Multidisciplinar sobre el Abordaje de la Desnutrición en España). En este mismo artículo se recomienda utilizar la propuesta de diagnóstico publicada en el año 2008 en el Documento de Consenso SENPE (Sociedad Española de Nutrición Parenteral y Enteral)-SEDOM (Sociedad Española de Documentación Médica) (tablas 4 y 5).
+
+## Tabla 4. Parámetros diagnósticos en desnutrición hospitalaria
+
+| | Desnutrición calórica | Desnutrición proteica | Desnutrición mixta |
+|--------------------------|----------------------|---------------------|-------------------|
+| IMC | ++ | Normal | + |
+| % peso habitual | ++ | No | + |
+| % pérdida de peso/tiempo | | | |
+| 1 semana | ++ | No | + |
+| 1 mes | ++ | No | + |
+| 2 meses | ++ | No | + |
+| 3 meses | ++ | No | + |
+| Pliegues y antropometría | ++ | No | + |
+| Albúmina | Normal | ++ | + |
+| Transferrina | Normal | ++ | + |
+| Prealbúmina | Normal | ++ | + |
+| Proteína ligada a retinol | Normal | ++ | + |
+| Linfocitos | + | ++ | + |
+| Colesterol | ++ | No | + |
+| Valoración global subjetiva | B-C | B-C | B-C |
+| NRS-2002 | + | + | + |
+| MUST | + | + | + |
+
+IMC: índice de masa corporal. NRS: Nutritional Risk Screening 2002. MUST: Malnutrition Universal Screening Tool.
+Tomado de: Documento SENPE-SEDOM sobre la codificación de la desnutrición hospitalaria. Nutr Hosp 2008; 23:536-40.
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+### Tabla 5. Parámetros diagnósticos en desnutrición hospitalaria según grado de severidad
+
+| Parámetro | Normal | Leve | Moderada | Severa |
+|-----------|--------|------|-----------|--------|
+| IMC (kg/m²) | 18,5-25,0 | 17-18,4 | 16-16,9 | < 16 |
+| % peso habitual | > 95% | 94,9-85 | 84,9-75% | < 75% |
+| % pérdida de peso/tiempo |  |  |  |  |
+| 1 semana | < 1 | 1-2 | 2 | > 2 |
+| 1 mes | < 2 | < 5 | 5 | > 5 |
+| 2 meses | < 3 | 5 | 5-10 | > 10 |
+| 3 meses | < 7,5 | < 10 | 10-15 | > 15 |
+| Pliegues y antropometría | > p15 | < p15 | < p10 | < p 5 |
+| Albúmina (g/dl) | 3,6-4,5 | 2,8-3,5 | 2,1-2,7 | < 2,1 |
+| Transferrina (mg/dl) | 250-350 | 150-200 | 100-150 | < 100 |
+| Prealbúmina (mg/dl) | 18-28 | 15-18 | 10-15 | < 10 |
+| Proteína ligada a retinol (mg/dl) | 2,6-7 | 2-2,6 | 1,5-2 | < 1,5 |
+| Linfocitos | > 2.000 | 1.200-2.000 | 800-1.200 | < 800 |
+| Colesterol | ≥ 180 | 140-179 | 100-139 | < 100 |
+| Valoración global subjetiva | A | B | C | C |
+| | Sin riesgo | Posible riesgo | Riesgo nutricional |
+| NRS-2002 | 0 | 1-2 | ≥ 3 |
+| MUST | 0 | 1 | ≥ 2 |
+
+IMC: índice de masa corporal. NRS: Nutritional Risk Screening 2002. MUST: Malnutrition Universal Screening Tool. p: percentile.
+Tomado de: Documento SENPE-SEDOM sobre la codificación de la desnutrición hospitalaria. Nutr Hosp 2008; 23:536-40.
+
+En este sentido, ASPEN (The American Society for Parenteral and Enteral Nutrition) propone realizar una definición estandarizada de la desnutrición basada en la etiología. En pacientes hospitalizados, la mayor parte de la desnutrición podría ser considerada malnutrición asociada a enfermedad aguda o a agresión. Además, simplifica el diagnóstico a partir de los siguientes parámetros (diagnóstico de desnutrición si existen dos o más de ellos): ingesta de energía insuficiente, pérdida ponderal,
+---
+pérdida de masa muscular, pérdida de tejido graso subcutáneo, edema –que puede
+enmascarar la pérdida ponderal– y disminución de la funcionalidad –determinada
+con FPM–. Además, en este documento se desmitifica el papel de la albúmina como
+marcador nutricional.
+
+## CODIFICACIÓN AL ALTA
+
+En aquellos pacientes con desnutrición al alta, debe prescribirse un plan de cuidados para seguir fuera del hospital, que tiene que incluirse en el informe final
+(grado de recomendación D; Consenso Multidisciplinar sobre el Abordaje de la
+Desnutrición en España). Tanto la desnutrición asociada a la enfermedad como la
+intervención nutricional (nutrición enteral o parenteral), deberían notificarse en el
+informe de alta para que pudieran ser codificadas –Clasificación Internacional de
+Enfermedades (CIE 10) en el sistema Grupos Relacionados de Diagnóstico (GRD)–
+(grado de recomendación D).
+
+# VALORACIÓN NUTRICIONAL EN RESIDENCIAS Y EN LA COMUNIDAD
+(Dr. Iñaki Artaza Artabe)
+
+## PREVALENCIA DE DESNUTRICIÓN
+
+No es fácil conocer de manera fiable la prevalencia de desnutrición en ancianos
+españoles que viven en la comunidad, pues los datos difieren según la metodología
+empleada en la valoración y dependen de su situación física, funcional, cognitiva y
+social. Parece ser que dicha prevalencia se situaría por debajo del 3%. En estudios
+realizados en Cataluña por Salvá y cols. a nivel domiciliario la cifran en torno al 0,5%,
+que coincide con el 0,8% obtenido por Winter y cols. (2013) en Australia. Sin embargo, en pacientes ambulatorios con demencia la desnutrición afecta al 5,2%.
+
+Dada la heterogeneidad del medio residencial, los datos de prevalencia muestran cifras dispares que van desde el 6-8% de estudios españoles, al 27,6% de residencias
+de Alemania. También aquí hay diferencias según la evaluación realizada.
+
+La desnutrición calórico-proteica dentro del ámbito hospitalario es un hecho indiscutible, cuya prevalencia en ancianos españoles alcanza entre un 12,5 y un 78,9%
+en los trabajos publicados. En un estudio multicéntrico español reciente, la desnutri-
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+ción afectó a un 23,7% de los ingresos. Entre otros, la edad, la disfagia, el diagnós-
+tico de diabetes mellitus (DM) y la polimedicación, habituales en mayores frágiles,
+se asociaron de forma independiente con el riesgo de desnutrición. En otro trabajo
+multicéntrico de nuestro medio, sobre ancianos con DM, un 39,1% tuvo riesgo de
+desnutrición, y desnutrición establecida un 21,2%.
+
+Puesto que durante la hospitalización la desnutrición se asocia con aumento de los
+costes por proceso, con la estancia media y con el pronóstico clínico, su detección
+precoz parece relevante en un intento de minimizar su impacto.
+
+Los procesos de cribado de desnutrición y de valoración nutricional reflejados a
+continuación suponen la metodología habitual que debería seguirse durante la en-
+fermedad aguda, pero no se han encontrado referencias específicas para ancianos
+frágiles en este sentido, salvo en los datos referidos al cribado.
+
+## DESPISTAJE DE DESNUTRICIÓN
+
+Los objetivos del despistaje de desnutrición son predecir el pronóstico clínico debi-
+do a factores nutricionales y estimar si el tratamiento nutricional puede modificar
+aquel. Generalmente, la sobrecarga asistencial requiere herramientas sencillas y rá-
+pidas de despistaje que pueden completarse, si es necesario, con una valoración
+nutricional más minuciosa. Dichas herramientas deben mantener un buen valor
+predictivo sobre el curso clínico en función del tratamiento nutricional, alta fia-
+bilidad o correlación interobservador y adecuada validez de contenido, sin ítems
+redundantes. Pero también han de ser prácticas e ir asociadas a medidas concretas
+de actuación en función del resultado de la valoración.
+
+En ancianos se han utilizado diversas técnicas de despistaje de desnutrición. Entre
+ellas merece la pena destacar:
+
+### Short Nutritional Assessment Questionnaire (SNAQ)
+
+Es un breve cuestionario implantado en Holanda desde 2006. Tiene varias versio-
+nes: para personas mayores de la comunidad (SNAQ 65+), para pacientes hospi-
+talizados (SNAQ), para ancianos institucionalizados (SNAQ RC). Valora diferentes
+variables según el nivel asistencial, como: la pérdida no intencionada de peso, la
+pérdida de apetito, el tratamiento con suplementos nutricionales vo o por sonda, el
+IMC o la circunferencia del brazo.
+
+http://www.fightmalnutrition.eu/fight-malnutrition/screening-tools/snaq-tools-in-
+spanish/
+
+Presenta menor sensibilidad pero mayor valor predictivo positivo que el MUST en
+pacientes hospitalizados.
+---
+# Determine
+
+(Disease, Eating, Tooth, Economic, Reduced, Multiple, Involuntary, Needs, Elder): diseñado para pacientes ambulatorios. Se basa en una lista de datos que determinan si los pacientes están en riesgo de desnutrición y requieren intervención profesional. Posee baja sensibilidad y especificidad.
+
+## Mini Nutritional Assessment (MNA)
+## Mini Nutritional Assessment-Short Form (MNA-SF)
+
+ESPEN (The European Society for Clinical Nutrition and Metabolism) recomienda emplear la herramienta MNA porque puede detectar el riesgo o la desnutrición en ancianos frágiles mejor y más precozmente, y porque además de tener en cuenta aspectos físicos y sociales relevantes, incluye un cuestionario dietético. El cuestionario MNA ha sido evaluado en Unidades de Agudos y, en ellas, se ha observado una relación inversa entre puntuación final y mortalidad. Con el fin de simplificar su aplicación, se desarrolló la forma abreviada del cuestionario (MNA-SF; tabla 1), demostrando una fuerte correlación con el MNA global (r = 0,945). Utilizando un punto de corte de normalidad ≥ 11, su sensibilidad para detectar desnutrición es de un 97,9%, su especificidad de un 97,9% y su valor predictivo positivo del 98,7%. También ha sido empleado en ancianos hospitalizados con resultados dispares cuando se ha comparado con otras estrategias de valoración nutricional, resultando en general el más sensible para detectar riesgo, aunque menos específico. Debe tenerse en cuenta que el MNA se concibió como otra herramienta más de la valoración integral geriátrica, y que en su descripción original, el momento de administración se situó en la admisión hospitalaria.
+
+No obstante, en una revisión sistemática sobre la evidencia de la validación llevada a cabo con la herramienta MNA, se comenta que fue desarrollado con el fin de identificar a ancianos sanos o frágiles en riesgo de desnutrición, pero que para los ancianos hospitalizados los resultados posteriores de validación no son concluyentes. Algo similar ocurre con MNA-SF. Presenta una alta sensibilidad cuando se compara con otros métodos de referencia, pero baja especificidad (detecta a demasiados pacientes en riesgo cuando, de hecho, no están desnutridos). Sin embargo, es un buen sustituto de la versión completa del MNA. Desde un punto de vista de predicción pronóstica, la versión completa solo podría ser útil para predecir mortalidad y estancia media, pero los estudios no permiten extraer conclusiones firmes. No hay evidencia sobre predicción de complicaciones. El MNA-SF no es un instrumento válido para predecir eventos clínicos en esta población.
+
+## Nutritional Risk Screening (NRS 2002)
+
+Si no es posible emplear la herramienta MNA, se recomienda realizar el cribado mediante el cuestionario NRS 2002 (tabla 2). Con él se obtiene una puntuación que
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+tiene en cuenta tanto el estado nutricional como la gravedad de la enfermedad subyacente. El NRS 2002 ha sido validado a través del análisis retrospectivo de 128 ensayos clínicos sobre pronóstico clínico tras intervención nutricional. De ellos, 10 se habían realizado en ancianos de 70 o más años de edad, y a pesar de que no existía un gran deterioro nutricional, ni una severidad extrema de la patología motivo de estudio, el beneficio del soporte nutricional fue relevante. Por este motivo se decidió ajustar el valor total de esta herramienta en función de la edad (añadiendo 1 punto al total obtenido por encima de los 69 años).
+
+### Geriatric Nutritional Risk Index (GNRI)
+
+Diseñado de forma específica con el propósito de predecir morbimortalidad, estancia media y complicaciones posoperatorias, su valor predictivo se describió en un estudio retrospectivo que incluía ancianos que recibían soporte nutricional. En él no se observó ninguna correlación con estancia media, duración de la nutrición o complicaciones. Posteriormente se han publicado otros trabajos con series de casos que ofrecen resultados contradictorios sobre este fin. Así, queda por definir la validez predictiva de esta herramienta (tabla 3).
+
+### Malnutrition Universal Screening Tool (MUST)
+
+Inicialmente se diseñó para predecir el curso clínico en adultos y en ancianos hospitalizados (figura 1). Establece tres categorías de riesgo: bajo, medio y alto, y recomienda una serie de actuaciones en función del contexto. Incluye la valoración del índice de masa corporal (IMC), el cambio en el peso y la detección de cualquier enfermedad que suponga una restricción de la ingesta alimentaria más allá de 5 días. ESPEN la recomienda como herramienta de despistaje en el medio comunitario, pero en muchas instituciones se está empleando sistemáticamente en hospitalizados por su simplicidad. Se necesitan más estudios clínicos para confirmar la validez predictiva de esta herramienta en la población de ancianos hospitalizados.
+
+Se recomienda que todos los hospitales dispongan de protocolos para valorar el riesgo al ingreso y un plan de cuidados posterior que debe extenderse más allá de la propia hospitalización. En el Consenso Multidisciplinar sobre el Abordaje de la Desnutrición en España se afirma que en las primeras 24-48 horas del ingreso hospitalario debe realizarse un screening de desnutrición para que sea detectada precozmente (grado de recomendación A).
+
+Ya desde una perpectiva más general, en una revisión publicada recientemente sobre pacientes ancianos (Van Bokhorst-de van der Schueren), bajo una óptica metodológica muy cuidada, las herramientas contempladas específicamente para valorar la situación nutricional de los ancianos hospitalizados, fueron NRI (Nutritional Risk Index), MNA, MNA-SF, NUFFE (Nutritional Form For The Elderly), Simple screening tool I and II, MEONF-II (Minimal Eating Observation and Nutrition forme
+---
+version II), Rapid Screen, Nutrition Screening Initiative y Chandra Nutrition Screen.
+La conclusión general sobre la validez de constructo de estas herramientas es que
+ninguna funcionó de forma consistente en estudios posteriores. Así, los autores
+no se decantan por ninguna herramienta de detección de desnutrición en ancia-
+nos hospitalizados.
+
+Solo se recoge una herramienta diseñada en ancianos hospitalizados con el
+fin de predecir pronóstico clínico: Geriatric Nutritional Risk Index (GNRI). Los
+mismos autores concluyen que ninguna de las herramientas específicas para
+la población geriátrica consigue predecir el curso de la enfermedad durante la
+hospitalización.
+
+Otra revisión (Skiper) ha establecido una graduación en las herramientas en
+función de la calidad de los estudios sobre validez y fiabilidad. Así, NRS-2002
+fue situada en el grado I (alta evidencia), MNA-SF, MST (Malnutrition Screening
+Tool) y MUST en el grado II. El resto fueron graduadas en un nivel III o menor.
+
+Elia y Stratton, sin embargo, difieren en cierta manera de estas aproximaciones,
+puntualizando que la edad, por sí misma, puede predecir mortalidad y estancia
+media de forma más efectiva que las herramientas de despistaje de desnutrición.
+En este sentido, si el asunto de interés es la predicción del pronóstico a través de
+la intervención nutricional, la edad sigue siendo más importante. También afirman
+que ninguno de los cuestionarios es suficientemente bueno para ser propuesto
+como un método predictivo adecuado en ancianos.
+
+En el medio residencial son varios los trabajos que comparan el MNA con otras
+herramientas, como el MUST o la NRS, identificando a la primera como de elec-
+ción en pacientes institucionalizados.
+
+A pesar de toda esta controversia en población geriátrica, en el Consenso Multi-
+disciplinar sobre el Abordaje de la Desnutrición en España, y teniendo en cuenta
+el conjunto de pacientes hospitalizados, se acepta que cada centro tenga el mé-
+todo de cribado que sea más apropiado según sus características. Las variables
+mínimas que debe contener son: IMC (< 18,5 kg/m²), cambios involuntarios en el
+peso corporal (pérdida de peso > 5% en 3 meses o > 10% en 6 meses) y modifi-
+caciones en el patrón habitual de ingesta de alimentos en el mes previo (grado de
+recomendación D). El despistaje debe llevarse a cabo por sanitarios directamente
+involucrados en el cuidado del paciente (grado de recomendación D). Pero en
+cualquier caso, ha de garantizarse que los pacientes con resultado positivo pue-
+dan identificarse para implementar acciones de soporte posteriormente (grado
+de recomendación D). Aquellos con cribado negativo deben reevaluarse con una
+frecuencia variable, en función de la condición del paciente y de los factores de
+riesgo nutricional detectados, pero con una periodicidad mínima semanal (grado
+de recomendación D).
+---
+# Envejecimiento y Nutrición
+PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+## VALORACIÓN NUTRICIONAL
+
+En los pacientes con riesgo de desnutrición, debe llevarse a cabo una valoración nutricional más minuciosa para completar la prescripción terapéutica. Ha de realizarse por profesionales entrenados y con experiencia, de acuerdo con los recursos disponibles. La metodología dependerá de las características del paciente, así como de la evidencia científica disponible (grado de recomendación D; Consenso Multidisciplinar sobre el Abordaje de la Desnutrición en España).
+
+Los datos que pueden aportar luz sobre la situación nutricional del enfermo son:
+
+### Parámetros antropométricos
+
+Suelen ser difíciles de obtener en ancianos hospitalizados que permanecen generalmente encamados. Además, pueden presentarse alterados por cambios en el porcentaje hídrico corporal durante la enfermedad aguda (edema).
+
+El peso debería medirse por medio de sillones-báscula o pesos de cama, y reevaluarse de forma tanto retrospectiva como prospectiva, para valorar el cambio de peso corporal: % pérdida de peso = [(peso habitual – peso actual) / peso habitual] x 100.
+
+La talla puede determinarse directamente, o a través de fórmulas predictivas como:
+
+#### Fórmula altura rodilla-talón de Chumlea:
+- Hombre = (2,02 x altura rodilla) - (0,04 x edad) + 64,19
+- Mujer = (1,83 x altura rodilla) - (0,24 3 edad) + 84,88
+
+#### Fórmula rodilla-maléolo de Arango y Zamora:
+- Hombre = (LRM x 1,121) – (0,117 x edad) + 119,6
+- Mujer = (LRM x 1,263) – (0,159 x edad) + 107,7
+
+Donde LRM es la longitud rodilla-maléolo.
+
+#### Fórmula demispan:
+Se denomina demispan a la distancia desde el centro de la escotadura esternal hasta la punta del dedo medio.
+
+```
+[Imagen que muestra la medición del demispan desde el centro del pecho hasta la punta del dedo medio]
+```
+
+- Mujeres: talla en cm = (1,35 x demispan en cm) + 60,1
+- Hombres: talla en cm = (1,40 x demispan en cm) + 57,8
+---
+La utilización de medidas alternativas de talla como demispan son fáciles de obtener en las personas mayores y pueden ser más precisas que las mediciones de la altura, debido a que se calculan a partir de huesos que no modifican su longitud con el envejecimiento.
+
+Las circunferencias braquial y de la pantorrilla, así como los pliegues cutáneos (tricipital, bicipital, abdominal, suprailiaco y escapular) y sus parámetros derivados (circunferencia muscular del brazo), podrían utilizarse para compararlas con tablas poblacionales de referencia, no actualizadas en España, o para llevarlas a fórmulas de estimación de la composición y el peso corporales. Aunque en la práctica hospitalaria no se utilizan habitualmente por su dificultad en mostrar cambios en un corto periodo de tiempo, sí tienen interés en las residencias, especialmente la circunferencia de la pantorrilla (CP). Varios estudios demuestran que es un buen marcador del estado nutricional, mostrando correlaciones significativas entre la CP y otros marcadores antropométricos nutricionales (IMC y masa libre de grasa) y marcadores biológicos (albúmina).
+
+## Parámetros bioquímicos
+
+Clásicamente se han utilizado los linfocitos totales, y los valores séricos de albúmina, prealbúmina, transferrina, proteína ligada a retinol, creatinina y colesterol total. Sin embargo, debe tenerse en cuenta que cualquiera de ellos puede estar alterado por la inflamación y la enfermedad aguda, y que suelen comportarse más como predictores de mal pronóstico o como reactantes de fase aguda negativos. Últimamente varios trabajos proponen la utilización de la leptina porque no se vería afectada por factores no nutricionales ni se modifica en situaciones inflamatorias.
+
+En el hospital suelen valorarse conjuntamente con la proteína C reactiva (PCR), para tener una visión más global de la situación del paciente.
+
+## Registro de ingesta
+
+De entre los métodos de valoración de la ingesta de alimentos –registros, cuestionario de frecuencia de consumo, historia dietética y recordatorio de 24 horas–, el último resulta más práctico en el ámbito hospitalario. Se han diseñado algunas láminas que permiten estimar la ingesta de todas las comidas y bebidas del día previo, al tiempo que se pregunta al paciente por qué no tomó todos los productos ofrecidos (apetito, incomodidad...).
+
+En el medio residencial se realiza mediante una ficha individualizada a cumplimentar por el personal de enfermería donde se registra el porcentaje de la dieta ofrecida que ha ingerido el paciente. Se debe realizar, al menos, durante los tres primeros días del ingreso del nuevo residente en el centro y es de obligado cumplimiento en aquellos residentes que presenten desnutrición o posible riesgo de desnutrición.
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+Es imprescindible conocer la ingesta actual del residente para calcular qué porcenta-
+je de sus requerimientos nutricionales quedan cubiertos con la ingesta normal para
+establecer el soporte nutricional adecuado en cada caso.
+
+### Herramientas específicas
+
+De la misma forma que para el cribado nutricional, se han desarrollado cuestiona-
+rios que permiten tener una idea más global de la situación nutricional del paciente.
+Algunos de ellos aparecen también recogidos entre las herramientas de despistaje,
+así que la posibilidad podría ser doble.
+
+Entre ellas cabe mencionar: MNA en su versión completa en ancianos geriátricos
+(puede calcularse on-line a través del siguiente enlace: http://www.seen.es/nutri-
+cion-interactiva/mna.html– último acceso: 4-4-2014) y el MNA-SF. Estudios recien-
+tes han utilizado el MNA-SF como predictor de fragilidad en ancianos hospitalizados
+y la han comparado con herramientas de detección de fragilidad como la SHARE–FI
+(Frailty Instrument for Primare Care of the Survey of Health, Ageing, and Retirement
+in Europe) demostrando la fuerte asociación existente entre ambas.
+
+También, la valoración global subjetiva (VGS), que ha mostrado un gran acuerdo
+con otras herramientas en estudios tanto en pacientes hospitalizados como en su-
+jetos no institucionalizados, de forma global (figura 2).
+
+### Escalas de valoración del apetito
+
+La anorexia es muy común en pacientes ancianos y genera pérdida de peso.
+
+Para valorar la pérdida de apetito han surgido varias escalas, como la holan-
+desa AHSP (The Appetite, Hunger and Sensory Perception Questionnaire), que
+estudia 29 ítems en personas mayores de la comunidad dependientes y no de-
+pendientes y de residencias, o la CNAQ (Council of Nutrition Questionnaire) y
+la SNAQ (Simplified Nutritional Appetite Questionnaire), versión simplificada de
+la anterior, en ancianos institucionalizados. Estudios recientes han demostrado
+una buena correlación entre la SNAQ y el MNA.
+
+### Fuerza muscular
+
+En pacientes frágiles, la fuerza prensora de la mano (FPM), determinada mediante
+dinamómetro, se utiliza para valorar la fuerza muscular. Según el Consenso Euro-
+peo, para el diagnóstico de sarcopenia –una de las situaciones asociadas a fragili-
+dad– es necesario mostrar valores bajos de esta medida (junto con disminución de
+la masa muscular y deficiencia en las pruebas de función). Recientemente se ha pu-
+blicado un trabajo sobre prevalencia de sarcopenia en pacientes agudos geriátricos
+con datos similares a los obtenidos de pacientes ambulatorios (sarcopenia: 6,6%;
+sarcopenia severa: 18,7%).
+---
+Además, es un marcador nutricional. Se ha observado una relación evidente entre la FPM y el estado nutricional en pacientes hospitalizados, incluso tras tener en cuenta otros factores, como la edad, el descenso de la actividad funcional, el índice de comorbilidad de Charlson y el número de fármacos prescritos.
+
+## Composición corporal
+
+De las múltiples herramientas que existen para valorar los compartimentos corpora-les, la bioimpedancia (BIA) y la densitometría dual de doble energía (DEXA) han sido las más utilizadas en la práctica diaria. En este contexto, debe tenerse en cuenta que la estimación de masa grasa, masa libre de grasa y masa muscular a partir de fórmulas de regresión mediante BIA puede ser errónea por cambios en el estatus hídrico en los pacientes agudos. En estos casos, la bioimpedancia vectorial (BIVA) puede ser útil para estandarizar resultados a partir de los valores crudos de resisten-cia, reactancia y ángulo de fase.
+
+En pacientes ingresados, un ángulo de fase bajo se asoció a peor estado nutricional determinado con VGS y NRS-2002, y a estancias medias y mortalidad más elevadas.
+
+## Otros
+
+Dada la heterogeneidad de las residencias y centros geriátricos o sociosanitarios en nuestro país, la realización de una valoración nutricional completa resulta una tarea difícil. En la tabla 4, se muestran valoraciones mínimas a realizar según el tipo de centro.
+
+En pacientes geriátricos, y con la idea de mantener los cuidados tras el alta hospitalaria, deben investigarse otros factores, como apetito, nivel de saciedad, alteraciones del gusto, aversiones alimentarias, tránsito intestinal, disfagia, trastornos de la masticación, enfermedades crónicas que afecten a la disponibilidad y metabolismo de nutrientes, indicaciones sobre restricciones dietéticas, alergias e intolerancias alimentarias, medi-cación, actividad y ejercicio físico y capacidad para comprar y cocinar los alimentos.
+
+Finalmente, cada hospital debería definir los protocolos diagnósticos de desnu-trición hospitalaria y los circuitos de actuación (consenso de expertos; Consenso Multidisciplinar sobre el Abordaje de la Desnutrición en España). En este mis-mo artículo se recomienda utilizar la propuesta de diagnóstico publicada en el año 2008 en el Documento de Consenso SENPE (Sociedad Española de Nutri-ción Parenteral y Enteral)-SEDOM (Sociedad Española de Documentación Médica) (tablas 4 y 5).
+
+En este sentido, ASPEN (The American Society for Parenteral and Enteral Nutri-tion) propone realizar una definición estandarizada de la desnutrición basada en la etiología. En pacientes hospitalizados, la mayor parte de la desnutrición podría ser considerada malnutrición asociada a enfermedad aguda o a agresión. Además, sim-
+---
+Envejecimiento y Nutrición
+PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+plifica el diagnóstico a partir de los siguientes parámetros (diagnóstico de desnutri-
+ción si existen dos o más de ellos): ingesta de energía insuficiente, pérdida ponderal,
+pérdida de masa muscular, pérdida de tejido graso subcutáneo, edema –que puede
+enmascarar la pérdida ponderal– y disminución de la funcionalidad –determinada
+con FPM–. Además, en este documento se desmitifica el papel de la albúmina como
+marcador nutricional.
+
+## CODIFICACIÓN AL ALTA
+
+En aquellos pacientes con desnutrición al alta, debe prescribirse un plan de cui-
+dados para seguir fuera del hospital, que tiene que incluirse en el informe final
+(grado de recomendación D; Consenso Multidisciplinar sobre el Abordaje de la
+Desnutrición en España). Tanto la desnutrición asociada a la enfermedad como la
+intervención nutricional (nutrición enteral o parenteral) deberían notificarse en el
+informe de alta para que pudieran ser codificadas –Clasificación Internacional de
+Enfermedades (CIE 10) en el sistema Grupos Relacionados de Diagnóstico (GRD)–
+(grado de recomendación D).
+
+## BIBLIOGRAFÍA RECOMENDADA
+
+Álvarez-Hernández J, Planas Vila M, León-Sanz M, García de Lorenzo A, Celaya-Pérez S,
+García-Lorda P, et al. PREDyCES researchers. Prevalence and costs of malnutrition in hospi-
+talized patients; the PREDyCES Study. Nutr Hosp 2012 Jul-Aug; 27(4):1.049-59.
+
+Álvarez J, Del Río J, Planas M, García Peris P, García de Lorenzo A, Calvo V, et al. Grupo de
+Documentación de SENPE. Documento SENPE-SEDOM sobre la codificación de la desnutri-
+ción hospitalaria. Nutr Hosp 2008; 23:536-40.
+
+Amirkalali B, Sharifi F, et al. Low serum leptin serves as a biomarker of malnutrition in elderly
+patients. Nutr Res 2010 May; 30(5):314-9.
+
+Bouillanne O, Golmard JL, Coussieu C, Noël M, Durand D, Piette F, Nivet-Antoine V. Leptin
+a new biological marker for evaluating malnutrition in elderly patients. Eur J Clin Nutr 2007
+May; 61(5):647-54.
+
+Cereda E, Pedrolli C. The Geriatric Nutritional Risk Index. Curr Opin Clin Nutr Metab Care
+2009; 12:1-7.
+
+Cereda E, Pusani C, Limonta D, Vanotti. A The ability of the Geriatric Nutritional Risk Index
+to assess the nutritional status and predict the outcome of home-care resident elderly: a
+comparison with the Mini Nutritional Assessment. Br J Nutr 2009 Aug; 102(4):563-70.
+
+Cereda E, Zagami A, Vanotti A, Piffer S, Pedrolli C. Geriatric Nutritional Risk Index and over-
+all-cause mortality prediction in institutionalised elderly: a 3-year survival analysis. Clin Nutr
+2008 Oct; 27(5):717-23.
+
+Cruz-Jentoft AJ, Baeyens JP, Bauer JM, et al. European Working Group on Sarcopenia in
+Older People. Sarcopenia: European consensus on definition and diagnosis: Report of the
+European Working Group on Sarcopenia in Older People. Age Ageing 2010; 39:412-23.
+---
+Dent E, Visvanathan R, Piantadosi C, Chapman I. Nutritional screening tools as predictors of mortality, functional decline, and move to higher level care in older people: a systematic review. J Nutr Gerontol Geriatr 2012; 31:97-145.
+
+Diekmann R, Winning K, Uter W, Kaiser MJ, Sieber CC, Volkert D, Bauer JM. Screening for malnutrition among nursing home residents -a comparative analysis of the mini nutritional assessment, the nutritional risk screening, and the malnutrition universal screening tool. J Nutr Health Aging 2013 Apr; 17(4):326-31.
+
+Dorner TE, Luger E, Tschinderle J, Stein KV, Haider S, Kapan A, Lackinger C, Schindler KE. Association between Nutritional Status (MNA®-SF) and Frailty (SHARE-FI) in Acute Hospitalised Elderly Patients. J Nutr Health Aging 2014; 18(3):264-9.
+
+Elia M, Stratton RJ. Considerations for screening tool selection and role of predictive and concurrent validity. Curr Opin Clin Nutr Metab Care 2011; 14:425-33.
+
+Elia M, Stratton RJ. An analytic appraisal of nutrition screening tools supported by original data with particular reference to age. Nutrition 2012; 28:77-94.
+
+García de Lorenzo A, Álvarez Hernández J, Planas M, Burgos R, Araujo K. Multidisciplinary consensus work-team on the approach to hospital malnutrition in Spain. Multidisciplinary consensus on the approach to hospital malnutrition in Spain. Nutr Hosp 2011; 26:701-10.
+
+Guerra RS, Fonseca I, Pichel F, Restivo MT, Amaral TF. Handgrip Strength and Associated Factors in Hospitalized Patients. JPEN J Parenter Enteral Nutr 2013 Nov 29. [Epub ahead of print] PubMed PMID: 24291737.
+
+Hanisah R, Suzana S, Lee FS. Validation of screening tools to assess appetite among geriatric patients. J Nutr Health Aging 2012 Jul; 16(7):660-5.
+
+Kruizenga HM, De Vet HC, Van Marissing CM, et al. The SNAQ (RC), an easy traffic light system as a first step in the recognition of undernutrition in residential care. J Nutr Health Aging 2010 Feb; 14(2):83-9.
+
+Kyle UG, Genton L, Pichard C. Low phase angle determined by bioelectrical impedance analysis is associated with malnutrition and nutritional risk at hospital admission. Clin Nutr 2013; 32:294-9.
+
+Leistra E, Langius JA, Evers AM, van Bokhorst-de van der Schueren MA, Visser M, De Vet HC, Kruizenga HM. Validity of nutritional screening with MUST and SNAQ in hospital outpatients. Eur J Clin Nutr 2013 Jul; 67(7):738-42.
+
+Mathey MF. Assessing appetite in Dutch elderly with the Appetite, Hunger and Sensory Perception (AHSP) questionnaire. J Nutr Health Aging 2001; 5(1):22-8.
+
+Mueller C, Compher C, Ellen DM. ASPEN clinical guidelines: nutrition screening, assessment, and intervention in adults. J Parenter Enteral Nutr 2011; 35:16-24.
+
+Portero-McLellan KC, Staudt C, Silva FR, Delbue Bernardi JL, Baston Frenhani P, Leandro Mehri VA. The use of calf circumference measurement as an anthropometric tool to monitor nutritional status in elderly inpatients. J Nutr Health Aging 2010 Apr; 14(4):266-70.
+
+Rolland YL, Perrin A, Gardette V, Filhol N, Vellas B. Screening older people at risk of malnutrition or malnourished using the Simplified Nutritional Appetite Questionnaire (SNAQ): a comparison with the Mini-Nutritional Assessment (MNA) tool. J Am Med Dir Assoc 2012 Jan; 13(1):31-4.
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+Sanz París A, García JM, Gómez-Candela C, Burgos R, Martín Á, Matía P; Study VIDA group. Malnutrition prevalence in hospitalized elderly diabetic patients. Nutr Hosp 2013; 28:592-9.
+
+Skipper A, Ferguson M, Thompson K, Castellanos VH, Porcari J. Nutrition screening-tools: an analysis of the evidence. J Parenter Enteral Nutr 2012; 36:292-8.
+
+Smoliner C, Sieber CC, Wirth R. Prevalence of sarcopenia in geriatric hospitalized patients. J Am Med Dir Assoc 2014; 15:267-72.
+
+Van Bokhorst-De Van der Schueren MA, Guaitoli PR, Jansma EP, De Vet HC. Nutrition screening tools: does one size fit all? A systematic review of screening tools for the hospital setting. Clin Nutr 2014; 33:39-58.
+
+Wijnhoven HA, Schilp J, Van Bokhorst-De Van Der Schueren MA, De Vet HC, Kruizenga HM, Deeg DJ, et al. Development and validation of criteria for determining undernutrition in community-dwelling older men and women: The Short Nutritional Assessment Questionnaire 65+. Clin Nutr 2012 Jun; 31(3):351-8.
+
+White JV, Guenter P, Jensen G, Malone A, Schofield M. Academy Malnutrition Work Group, ASPEN Malnutrition Task Force and and the ASPEN Board of Directors. Consensus Statement: Academy of Nutrition and Dietetics and American Society for Parenteral and Enteral Nutrition: Characteristics Recommended for the Identification and Documentation of Adult Malnutrition (Undernutrition). J Parenter Enteral Nutr 2012; 36:275-83.
+---
+# Evidencias de las estrategias nutricionales en pacientes frágiles
+
+Dra. Pilar Matía Martín y Roberto Petidier Torregrossa
+
+## INTRODUCCIÓN
+
+Durante las últimas décadas se ha observado que el origen o agravamiento de muchas patologías relacionadas con el envejecimiento, incluyendo las enfermedades cardiovasculares, metabólicas y neurodegenerativas, tienen relación con factores del estilo de vida que interaccionan de forma muy poderosa con la información genética. Siendo importante recordar que estas patologías conforman 10 de las primeras causas de mortalidad en la sociedad occidental, también lo es que existe un cúmulo creciente de evidencias científicas que demuestran que modificaciones en el estilo de vida, incluyendo la alimentación, pueden prevenir en muchos casos dichas enfermedades y también pueden ayudar a mejorar los resultados de terapias farmacológicas.
+
+Dentro de la genética molecular, la nutrigenómica se ha encargado de investigar este campo relativamente nuevo como es el de la influencia de los alimentos sobre los patrones de expresión de los genes. La idea original de que la información genética que tenemos al nacer es fija e inamovible se ha desdibujado ante la evidencia de que algunos efectos de los alimentos sobre la expresión génica se mantienen a largo plazo. El descubrimiento de estos procesos, bajo el epígrafe de epigenética, ha abierto las puertas a un nuevo paradigma biomédico y psicosocial, amparando la idea de que la información genética posee un grado importante de modificación a lo largo de la vida, de tal forma que se acepta ya la existencia de un epigenoma además del genoma.
+
+## FRAGILIDAD Y NUTRIENTES ESPECÍFICOS
+
+La fragilidad es una condición de etiología multifactorial, como se comenta en el primer capítulo de esta obra, y se piensa que la nutrición tiene influencia tanto en su etiología como en su tratamiento. Numerosos estudios han valorado la asociación entre la ingesta de nutrientes y de biomarcadores nutricionales con el fenotipo de fragilidad. El análisis transversal de los datos de 754 mujeres entre 70 y 80 años de edad del Women's Health and Aging Studies (WHAS) I y II, mostró que la probabilidad, ajustada por edad, de ser frágil era significativamente mayor en aquellas mujeres en las que las concentraciones de micronutrientes (carotenoides totales, alpha-tocoferol, 25-OH-colecalciferol, y vitamina B₆) se situaban en el cuartil más bajo respecto a los tres superiores. Similares resultados obtuvo el grupo de Semba y cols. analizando datos longitudinales del estudio WHAS I. Tras un seguimiento de
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+3 años, las mujeres situadas en el cuartil más bajo para niveles de carotenoides en suero y 25-OH-vitamina D tenían un riesgo aumentado de desarrollar el fenotipo de fragilidad, respecto a los cuartiles superiores. También en el estudio longitudinal NHANES se observó relación entre niveles de 25-OH-colecalciferol y fragilidad: concentraciones inferiores a 37,4 nmol/l se asociaron a 3,7 veces mayor riesgo de ser frágil entre población blanca y 4 veces en población no blanca.
+
+En lo que respecta a macronutrientes, también existen estudios que relacionan su ingesta con la presencia de fragilidad. El grupo de Bartali y cols., analizando datos transversales del estudio italiano inCHIANTI, expone la asociación de baja ingesta de calorías y proteínas con fragilidad. El posible efecto protector de una dieta rica en proteínas ya se había observado en The Health, Aging and Body Composition Study (Health ABC), donde en un seguimiento a 3 años, los participantes en el quintil más alto respecto a la ingesta de proteína tenían aproximadamente un 40% menos de pérdida de masa magra respecto a los situados en el quintil inferior. Recientemente, los investigadores del Women's Health Initiative Observational Study (WHI-OS) han evidenciado un efecto protector del aumento en la ingesta proteica sobre la incidencia de fragilidad; en la cohorte de 24.417 mujeres entre 65 y 79 años sin fragilidad al entrar en el estudio, un incremento del 20% en la ingesta proteica (como porcentaje de calorías totales, e independientemente de que la fuente sea animal o vegetal y de la calidad de la proteína) corregida para error de medida con el uso de biomarcadores de calorías y proteínas, se asocia en un periodo de 3 años con una reducción del 32% de incidencia de fragilidad. En ambos estudios la ingesta media de proteína fue de 1,2 g/kg/día en el quintil superior de ingesta y, por tanto, un 50% superior a las recomendaciones actuales de aportes dietéticos recomendados (RDA) de 0,8 g/kg/día.
+
+Un proceso clave en el desarrollo de fragilidad es la pérdida de masa muscular, que se precipita tras el reposo por un proceso agudo. La desnutrición disminuye la síntesis de tejido muscular en un 20%. Evitarla es crucial para prevenir la pérdida acelerada de músculo durante periodos de inmovilidad. El exceso de calorías tampoco resulta beneficioso porque contribuye al aumento de la masa grasa (MG) corporal total y a la infiltración por esta del tejido muscular.
+
+Un descenso en el consumo de proteínas por debajo de 0,8 g/kg de peso/día ya es insuficiente para mantener la masa muscular, y en condiciones de anorexia e ingesta reducida es muy difícil alcanzar los requerimientos mínimamente óptimos. Por otra parte, se ha descrito una resistencia anabólica en el músculo de los ancianos tras la ingesta de proteínas. Esta resistencia podría vencerse aumentando el porcentaje de proteínas en cada comida, utilizando fuentes de proteínas específicas o modulando el momento del aporte proteico. Mientras que en individuos jóvenes pueden ser suficientes 15-20 g de proteínas para maximizar la respuesta anabólica muscular tras la ingesta, en ancianos se ha observado que esta respuesta es máxima tras el aporte de 35 g de proteínas séricas (frente a 10-20 g). De hecho, se ha explorado el efecto de
+---
+una dosis extra de proteínas antes del descanso nocturno sobre la síntesis muscular durante el sueño, con resultados satisfactorios.
+
+La fuente de proteína también es importante, pues el aumento de aminoácidos esenciales, y particularmente de leucina, en el periodo posprandial es clave para el estímulo de la síntesis proteica muscular. La utilización de aminoácidos para esta respuesta anabólica ha sido mayor tras la ingesta de proteínas de rápida absorción que contienen más cantidad de leucina (proteínas séricas de la leche). Sin embargo, el impacto definitivo de la leucina sobre el metabolismo muscular durante la inactividad aún tiene que ser definido, así como el papel del β-hidroxi-β-metilbutirato (metabolito de la leucina), que puede atenuar la pérdida muscular y aumentar la masa muscular y la fuerza en ancianos.
+
+Como conclusión, y con una evidencia que aún debería ser avalada por más estudios, puede recomendarse una ingesta de 30 g de proteínas de alto valor biológico –aproximadamente 15 g de aminoácidos esenciales y 3 g de leucina– de 3 a 5 veces a lo largo del día. Esta estrategia sería adecuada para prevenir la pérdida de masa muscular durante periodos de desuso, y según numerosos autores, debería acompañarse de forma invariable con la realización de ejercicio físico. Un ejemplo de ello es un ensayo reciente en mujeres japonesas sarcopénicas mayores de 75 años que viven en la comunidad (Kim HK, 2012), donde se observa que la asociación de ejercicio físico y suplementación proteica (60 min de ejercicio moderado 2 veces a la semana, y 3 g/día de modulo proteico enriquecido con leucina, todo ello durante 3 meses) no solo es efectivo en aumentar la fuerza muscular, sino en el objetivo combinado de masa muscular y velocidad de la marcha.
+
+En la tabla 1 se recogen las recomendaciones recientemente revisadas sobre ingesta óptima de proteínas en ancianos (PROT-AGE Study Group).
+
+| Tabla 1. Ingesta óptima de proteínas en ancianos sanos y enfermos (PROT-AGE Study Group) | 69 |
+|------------------------------------------------------------------------------------------|------|
+| Ancianos sanos |
+| Para mantener y recuperar masa muscular, los ancianos necesitan más proteínas dietéticas que los jóvenes. Se recomienda un consumo en el rango de 1,0-1,2 g/kg de peso/día. |
+| El umbral para la respuesta anabólica tras el consumo de proteínas/aminoácidos es más alto en ancianos. Se requieren unos 25-30 g de proteínas por comida –con 2,5 a 2,8 g de leucina–. |
+| La fuente de proteínas, el momento de la ingesta y la suplementación con aminoácidos pueden considerarse cuando se hacen recomendaciones sobre la ingesta proteica en ancianos. |
+| Además de una ingesta más alta de proteínas, se recomienda ejercicio físico individualizado, de forma que sea seguro y bien tolerado. |
+| Son necesarios más estudios, con metodología adecuada, para definir con mayor precisión las necesidades de proteínas en ancianos. |
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+### Tabla 1. Ingesta óptima de proteínas en ancianos sanos y enfermos (PROT-AGE Study Group) (continuación)
+
+| Ancianos con enfermedad aguda o crónica |
+|------------------------------------------|
+| La cantidad de proteínas añadidas a la dieta depende de la enfermedad, de su severidad, del estado nutricional previo a la enfermedad, así como del impacto de la enfermedad sobre el estado nutricional del paciente. |
+| La mayor parte de los ancianos con una enfermedad aguda o crónica necesita más proteínas dietéticas: 1,2-1,5 g/kg de peso/día. Aquellos con enfermedad o lesión severas o con malnutrición marcada pueden necesitar hasta 2 g/kg de peso/día. |
+| Los ancianos con enfermedad renal crónica avanzada (filtrado glomerular estimado < 30 ml/min) sin diálisis, son una excepción; estos necesitan limitar su ingesta proteica. |
+
+Otros nutrientes que podrían tener relevancia en la prevención o en el tratamiento de alguno de los componentes de la fragilidad son:
+
+- **Creatina**: se ha relacionado con el estímulo del anabolismo muscular, incluso independientemente del ejercicio de resistencia. Dosis de 20 g diarios han sido efectivas en la regeneración muscular durante fases de rehabilitación. De momento se presenta como una intervención nutricional prometedora.
+
+- **Ácidos grasos omega-3 derivados de pescado (eicosapentaenoico y docosahexaenoico)**: recientemente se ha descrito un aumento en la respuesta anabólica muscular tras la administración de aminoácidos cuando se ha acompañado de estos ácidos grasos. Más que su papel antiinflamatorio, se ha defendido un mecanismo amplificador en las vías que conducen a la síntesis proteica muscular (mTOR/ P70S6K).
+
+- **Vitamina D**: la administración oral de 800 UI de vitamina D diarias ha demostrado ser eficaz en la mejoría de la fuerza muscular y de la función en ancianos, así como en la prevención de caídas y de fracturas. En el metaanálisis de Bischoff-Ferrari, la suplementación con vitamina D con dosis por encima de 700 UI y alcanzando niveles de al menos 60 nmol/l en plasma reduce las caídas en un 19%.
+
+## FRAGILIDAD Y PATRONES DIETÉTICOS
+
+Más interesante aún parece la posible relación entre "patrones de ingesta" y desarrollo de fragilidad. Es aquí donde entra el concepto de "dieta mediterránea", nacido a raíz de los estudios en la década de los 50 del equipo liderado por el fisiólogo estadounidense Ancel Keys. En general, una "buena dieta mediterránea" se compone de un alto consumo de frutas, vegetales, legumbres y bajo a moderado consumo de alcohol y aceite de oliva. En el estudio InCHIANTI se comprobó que una alta adherencia a este estilo de dieta se asociaba a alta ingesta de nu-
+---
+merosos micronutrientes antioxidantes, incluyendo equivalentes de β-carotenos y vitaminas C y E. Esta asociación podría explicar, al menos en parte, la influencia positiva de este patrón de alimentación sobre la aparición de fragilidad. El desarrollo de esta última, así como de otras alteraciones asociadas a la edad en la capacidad física, la movilidad y la fuerza muscular, se han atribuido en parte al estrés oxidativo y al estado de inflamación que se produce invariablemente con el envejecimiento. Así, en el Cardiovascular Health Study se comprobó que las concentraciones de proteína C reactiva y de otros marcadores de la coagulación estaban aumentados en los individuos catalogados como frágiles respecto a los no frágiles. Estas diferencias se mantenían aun después de excluir a aquellos individuos con enfermedad cardiovascular y diabetes, y después de ajustar por edad, sexo y raza. No hay que olvidar, sin embargo, que la dieta mediterránea, además de ser rica en nutrientes antioxidantes, también se compone de otros alimentos bioactivos como los polifenoles, con acción directa sobre vías intracelulares que controlan la supervivencia y la muerte neuronal, los procesos de diferenciación celular, la expresión de los genes y la regulación de las mitocondrias celulares.
+
+Los beneficios en salud de la dieta mediterránea están bien documentados en cuanto a la mortalidad y morbilidad de enfermedades crónicas, pero su rol en los deterioros relacionados con el envejecimiento solo han sido estudiados recientemente, a pesar de que constituyen intervenciones muy interesantes desde un punto de vista de coste-efectividad para prevenir o potencialmente disminuir esos eventos asociados a la edad. El poder protector de la dieta mediterránea se demostró ya hace algunos años para el deterioro cognitivo y la demencia en los estudios de Scarmeas y Féart en el 2009. Más recientemente, Milaneschi y cols. lo asociaron también a menor declinar de la movilidad en ancianos, y posteriormente, Talegawkar y cols. demuestran que en un seguimiento a 6 años de una cohorte de ancianos que viven en la comunidad, una alta adherencia a la dieta mediterránea se asocia a menos probabilidad de desarrollar fragilidad (OR 0,30), así como menor riesgo de tener baja actividad física (OR 0,62) y de baja velocidad de la marcha (OR 0,48).
+
+Teniendo siempre presente la limitación que suponen los estudios observacionales en cuanto a tener la certidumbre de que la asociación observada esté libre de posibles factores de confusión, parece claro que todos los estudios que tiendan a investigar la relación entre patrones de alimentación y resultados de las enfermedades podrán revertir en recomendaciones nutricionales más claramente entendibles y asumibles que los estudios realizados sobre determinados nutrientes específicos.
+
+A modo de resumen, puede plantearse la tabla 2 con los alimentos de la dieta mediterránea que la doctora Perla Kaliman propone como mejores en función de sus características:
+---
+Envejecimiento y Nutrición
+PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+## Tabla 2. Alimentos y dieta mediterránea
+
+| | Cuanto menos mejor | 1-2 veces por semana | 2-3 veces por semana | A diario |
+|---|:---:|:---:|:---:|:---:|
+| Dulces | X | | | |
+| Carne roja | X | | | |
+| Carne blanca | | X | | |
+| Huevos/lácteos | | X | | |
+| Salmón/sardina/atún/bacalao | | | X | |
+| Semillas/hierbas/especias | | | | X |
+| Aceite de oliva extra virgen/frutos secos | | | | X |
+| Frutas/verduras/cereales integrales/legumbres | | | | X |
+
+Modificado de: Kaliman P, Aguilar M. Cocina para tu mente. Barcelona: Ed. Blume, 2013.
+
+## FRAGILIDAD, SUPLEMENTOS ORALES Y NUTRICIÓN ENTERAL
+
+Los suplementos orales (SO) han sido definidos de diferentes maneras. En una de ellas se describen como aquellos productos que se utilizan en el tratamiento de situaciones metabólicas especiales, diseñados para suplementar su dieta habitual cuando esta no es suficiente para cubrir las necesidades nutricionales diarias del paciente. Son fórmulas no necesariamente completas ni necesariamente equilibradas, por lo que no deben constituir una fuente exclusiva de alimentación. También se perfilan como preparados que no contienen las cantidades suficientes para cubrir los RDA, por lo que no pueden utilizarse como única fuente nutricional a largo plazo. Son útiles como complemento a cualquier modalidad de alimentación natural, o cuando se buscan algunos efectos terapéuticos.
+
+Aparte de definiciones formales, la suplementación oral generalmente hace referencia a preparados comerciales con mezcla de macro y micronutrientes que pueden completar la ingesta de un individuo cuando esta es escasa o insuficiente para cubrir sus requerimientos diarios. La industria ha elaborado SO con todos los nutrientes necesarios para alcanzar requerimientos si se utilizaran como fuente alimenticia única (por encima de 1.200-1.500 kcal al día). Por ello, en la literatura científica esta forma de nutrición artificial se menciona dentro de la nutrición enteral (NE), distinguiéndola de la NE por sonda.
+---
+Hay muy pocas ensayos que hayan valorado la relación entre el uso de suplementos nutricionales como tales y el efecto beneficioso sobre fragilidad (o algún componente singular de la misma). En un reciente estudio realizado en Corea del Sur (Kim CO, 2013), a nivel de la comunidad y en ancianos con bajo nivel socioeconómico, la suplementación con 400 kcal y 25 g de proteínas (9,4 g de aminoácidos esenciales) durante 12 semanas en individuos con criterio de fragilidad basado solo en velocidad de la marcha, consiguió reducir la tasa de empeoramiento funcional.
+
+Sí, en cambio, disponemos de diversas revisiones sistemáticas y metaanálisis que han abordado la evidencia clínica sobre el empleo de SO/NE en el anciano en general, sin usar criterios de fragilidad. Ya en 1998, Potter observó que el beneficio de la suplementación oral o enteral sobre mortalidad en adultos se mantenía únicamente en pacientes enfermos, desnutridos, sin patología neoplásica, de más de 70 años de edad, cuando se empleaban más de 400 kcal diarias, al menos durante 35 días. Posteriormente, Stratton analizó ensayos aleatorizados y no aleatorizados en diferentes grupos poblacionales, y concluyó que la suplementación en ancianos tenía efectos positivos sobre evolución nutricional y mortalidad.
+
+En los últimos años se han publicado varios metaanálisis sobre suplementación en este grupo de edad. En uno de ellos (Milne, 2006), el análisis por subgrupos se realizó atendiendo a la ubicación del enfermo (hospitalizado, institucionalizado o residente en la comunidad; n = 9.187; 74% hospitalizados –ictus, fractura de cadera, enfermedad pulmonar obstructiva crónica, cirugía, insuficiencia cardiaca–). Mientras que la evidencia en pacientes sin enfermedad aguda fue escasa en relación a morbimortalidad y función, en los enfermos hospitalizados ancianos se observó menor mortalidad asociada al empleo de SO (175-1.000 kcal/día; 10-63 g de proteínas/día; suplementos comerciales, suplementos de base láctea y comidas enriquecidas) en el grupo de desnutridos y en aquellos que presentaban más problemas geriátricos. También disminuyeron las complicaciones y se describió un aumento en parámetros antropométricos como el peso corporal y la circunferencia muscular del brazo. No se hallaron diferencias en estancia media, y no se midieron parámetros de capacidad funcional y calidad de vida. De nuevo, para todas las ubicaciones, la mortalidad fue menor en sujetos suplementados de 75 o más años de edad, enfermos, que recibieron al menos 400 kcal diarias como suplemento durante 35 o más días.
+
+En una revisión sistemática y metaanálisis (Cawood, 2012) se estudió la eficacia de los suplementos orales hiperproteicos frente a controles (sin suplementación oral o con SO estándar) –seguimiento medio de 10 días a 2 años; 3.790 sujetos estudiados–. Comparados con la ausencia de suplementación oral, los SO hiperproteicos fueron eficaces en la reducción de complicaciones (–22%), de la estancia media (–3,8 días) y de los reingresos (–41%), sin diferencias en mortalidad. Además, se asociaron a mejoría en la fuerza prensora de la mano, y en la mayor parte de los estudios aumentó la calidad de vida. Los efectos nutricionales se concretaron en incrementos del peso corporal, y de la ingesta de calorías y proteínas. No se encontraron diferencias en ac-
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+tividades de la vida diaria, ni en movilidad, y los efectos sobre el apetito y el consumo de otros alimentos no fueron claros. Solo en tres estudios se abordó el efecto de SO hiperproteicos frente a SO estándar. No se observaron diferencias estadísticamente significativas en la mayor parte de los eventos, y solo en uno de ellos se describió un aumento del peso corporal, del índice de masa corporal (IMC) y de la masa grasa.
+
+Desde un punto de vista económico y de coste-efectividad, merece la pena destacar dos trabajos:
+
+- En una revisión sistemática y metaanálisis reciente (Stratton, 2013), el empleo de suplementos orales tras el alta hospitalaria (entre 6 semanas y 1 año en régimen ambulatorio) se asoció de forma significativa a una reducción en el número de reingresos. La intervención aportó en los diferentes estudios entre 475 y 1.200 kcal/día y 21-60 g de proteínas/día. La mayor parte de los trabajos incluidos estuvieron centrados en sujetos con varias comorbilidades, de más de 65 años (la edad media de toda la muestra se situó en 80 años).
+
+- Sobre una base de datos administrativa que contenía ingresos hospitalarios de 11 años (más de 40 millones de episodios), se estudió el impacto de los SO sobre estancia media, coste del proceso y riesgo de reingreso. Solo en un 1,6% de los ingresos se recogía la prescripción de SO. Utilizando una metodología novedosa, emparejando a los sujetos tratados con aquellos no tratados, y con la misma probabilidad de haber sido candidatos a SO, la estancia media se redujo en un 21%, el coste por proceso en un 21,6% y la probabilidad de reingreso en un 6,7% (Philipson, 2013).
+
+## FRAGILIDAD Y OBESIDAD. RECOMENDACIONES ESPECÍFICAS
+
+Estudios epidemiológicos han relacionado la pérdida ponderal en ancianos con un aumento de la mortalidad. Sin embargo, una reducción moderada de peso en ancianos obesos parece mejorar la funcionalidad y preservar la masa muscular –atenuando la fragilidad–. Además, la pérdida ponderal intencionada, encaminada a disminuir la MG preservando el músculo, se ha relacionado con una disminución de la mortalidad.
+
+Una intervención con dieta y ejercicio, dirigida a la reducción de peso en ancianos obesos, mejora la fuerza y la calidad musculares, además de producir pérdida de MG. Puesto que los ancianos que pierden peso tienen también un riesgo aumentado de pérdida de masa muscular, se recomienda que la prescripción de la dieta contenga una restricción calórica moderada (200-700 kcal), con un aporte aumentado de proteínas de alto valor biológico (hasta 1,5 g/kg/día). Además, debe recomendarse ejercicio físico para prevenir la pérdida de masa libre de grasa (MLG). El ejercicio físico por sí mismo solo consigue una pérdida ponderal moderada.
+---
+El empleo de sustitutos de comida enriquecidos en proteínas, en una o dos inges-
+tas diarias, es una forma práctica de balancear la dieta para optimizar la pérdida
+ponderal preservando la masa muscular. Se ha demostrado una mayor disminución
+de peso con estos sustitutos respecto a pautas simples de restricción calórica. En
+un estudio, el enriquecimiento proteico de estos sustitutos fue eficaz en la pérdida
+ponderal, con una disminución de MG superior con respecto al grupo control (2,2 g
+proteínas/kg de MLG /día vs. 1,1 g proteínas/kg de MLG /día). Sin embargo, no hubo
+diferencias ni en la pérdida de peso, ni en la cantidad de MLG entre grupos. Serían
+necesarios más estudios centrados en ancianos frágiles.
+
+## BIBLIOGRAFÍA RECOMENDADA
+
+Bales CW, Buhr G. Is obesity bad for older persons? A systematic review of the pros and cons
+of weight reduction in later life. J Am Med Dir Assoc 2008; 9:302-12.
+
+Bartali B, Frongillo EA, Bandinelli S, et al. Low nutrient intake is an essential component of
+frailty in older persons. J Gerontol A Biol Sci Med Sci 2006; 61:589-93.
+
+Bauer J, Biolo G, Cederholm T, Cesari M, Cruz-Jentoft AJ, Morley JE, zet al. Evidence-based
+recommendations for optimal dietary protein intake in older people: a position paper from
+the PROT-AGE Study Group. J Am Med Dir Assoc 2013; 14:542-59.
+
+Beasley JM, LaCroix AZ, Neuhouser ML, et al. Protein intake and incident frailty in the
+Women's Health Initiative observational study. J Am Geriatr Soc 2010; 58:1.063-71.
+
+Bischoff-Ferrari HA, Dawson-Hughes B, Staehelin HB, et al. Fall prevention with supplemen-
+tal and active forms of vitamin D: a meta-analysis of randomised controlled trials. BMJ 2009;
+339:b3.692.
+
+Cawood AL, Elia M, Stratton RJ. Systematic review and meta-analysis of the effects of high
+protein oral nutritional supplements. Ageing Res Rev 2012; 11:278-96.
+
+Féart C, Samieri C, Rondeau V, et al. Adherence to a Mediterranean diet, cognitive decline,
+and risk of dementia. JAMA 2009; 302:638-48.
+
+Houston DK, Nicklas BJ, Ding J, et al. Dietary protein intake is associated with lean mass
+change in older, community-dwelling adults: The Health, Aging, and Body Composition
+(Health ABC) Study. Am J Clin Nutr 2008; 87:150-5.
+
+Keis A. Mediterranean diet and public health: personal reflections. Am J Clin Nutr 1995;
+61(Suppl. 6):1.321S-3S.
+
+Kim CO, Lee KR. Preventive effect of protein-energy supplementation on the functional
+decline of frail older adults with low socioeconomic status: a community-based randomized
+controlled study. J Gerontol A Biol Sci Med Sci 2013; 68(3):309-16.
+
+Kim HK, Suzuki T, Saito K, et al. Effects of exercise and amino acid supplementation on
+body composition and physical function in community-dwelling elderly Japanese sarcopenic
+women: a randomized controlled trial. J Am Geriatr Soc 2012; 60(1):16-23.
+
+Michelon E, Blaum C, Semba RD, et al. Vitamin and carotenoid status in older women: asso-
+ciations with the frailty syndrome. J Gerontol A Biol Sci Med Sci 2006; 61:600-7.
+---
+# Envejecimiento y Nutrición
+## PAUTAS DE INTERVENCIÓN NUTRICIONAL EN ANCIANO FRÁGIL
+
+Milaneschi Y, Bandinelli S, Corsi AM, et al. Mediterranean diet and mobility decline in older persons. Exp Gerontol 2011; 46:303-8.
+
+Milne AC, Avenell A, Potter J. Meta-analysis: protein and energy supplementation in older people. Ann Intern Med 2006; 144:37-48.
+
+Philipson TJ, Snider JT, Lakdawalla DN, et al. Impact of oral nutritional supplementation on hospital outcomes. Am J Manag Care 2013; 19:121-8.
+
+Scarmeas N, Stern Y, Mayeux R, et al. Mediterranean diet and mild cognitive impairment. Arch Neurol 2009; 66:216-25.
+
+Semba RD, Bartali B, Zhou J, et al. Low serum micronutrient concentrations predict frailty among older women living in the community. J Gerontol A Biol Sci Med Sci 2006; 61:594-9.
+
+Sofi F, Abbate R, Gensini GF, Casini A. Accruing evidence on benefits of adherence to the Mediterranean diet on health: an updated systematic review and meta-analysis. Am J Clin Nutr 2010; 92:1.189–96.
+
+Stratton RJ, Hébuterne X, Elia M. A systematic review and meta-analysis of the impact of oral nutritional supplements on hospital readmissions. Ageing Res Rev 2013; 12:884-97.
+
+Talegawkar SA, Bandinelli S, Bandeen-Roche K, et al. A Higher adherence to a Mediterranean-Style diet is inversely associated with the development of frailty in community-dwelling elderly men and women. J Nutr 2012; 142:2.161-6.
+
+Treyzon L, Chen S, Hong K, et al. A controlled trial of protein enrichment of meal replacements for weight reduction with retention of lean body mass. Nutr J 2008; 7:23.
+
+Tucker KL. Dietary patterns, approaches, and multicultural perspective. Appl Physiol Nutr Metab 2010; 35:211-8.
+
+Villareal DT, Banks M, Sinacore DR, et al. Effect of weight loss and exercise on frailty in obese older adults. Arch Intern Med 2006; 166:860-6.
+
+Volkert D, Berner YN, Berry E, et al. DGEM (German Society for Nutritional Medicine), Lenzen-Grossimlinghaus R, Krys U, Pirlich M, et al. ESPEN (European Society for Parenteral and Enteral Nutrition). ESPEN Guidelines on Enteral Nutrition: Geriatrics Clin Nutr 2006; 25:330-60.
+
+Wall BT, Van Loon LJ. Nutritional strategies to attenuate muscle disuse atrophy. Nutr Rev 2013; 71:195-208.
+
+Walston J, McBurnie MA, Newman A, et al. Frailty and activation of the inflammation and coagulation systems with and without clinical comorbidities: results from the Cardiovascular Health Study. Arch Intern Med 2002; 162:2.333-41.
+
+Weinheimer EM, Sands LP, Campbell WW. A systematic review of the separate and combined effects of energy restriction and exercise on fat-free mass in middle-aged and older adults: implications for sarcopenic obesity. Nutr Rev 2010; 68:375-88.
+
+Wilhelm-Leen ER, Hall YN, Deboer IH, Chertow GM. Vitamin D deficiency and frailty in older Americans. J Intern Med 2010; 268:171-80.
+---
+The image contains a geometric abstract design in the upper half, featuring triangular shapes in vibrant colors including red, orange, blue, and white. The design is set against a white background that takes up the lower half of the image.
+
+At the bottom of the image, centered, is the following text and logo:
+
+CON LA COLABORACIÓN DE
+
+[A circular green logo with a stylized leaf or 'V' shape]
+
+vegenat®
+
+The text "CON LA COLABORACIÓN DE" is in a small, gray font, while "vegenat" is in a larger, navy blue font with a registered trademark symbol. The Vegenat logo consists of a green circle with a white stylized plant or 'V' shape inside it.
