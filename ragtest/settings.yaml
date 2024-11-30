@@ -12,7 +12,7 @@ llm:
   # api_version: 2024-02-15-preview
   # organization: <organization_id>
   # deployment_name: <azure_model_deployment_name>
-  # tokens_per_minute: 150_000 # set a leaky bucket throttle
+  tokens_per_minute: 150_000 # set a leaky bucket throttle
   # requests_per_minute: 10_000 # set a leaky bucket throttle
   # max_retries: 10
   # max_retry_wait: 10.0
@@ -59,7 +59,7 @@ input:
   file_type: text # or csv
   base_dir: "input"
   file_encoding: utf-8
-  file_pattern: ".*\\.txt$"
+  file_pattern: ".*\\.md$" #".*\\.txt$"
 
 cache:
   type: file # or blob
@@ -117,7 +117,7 @@ cluster_graph:
   max_cluster_size: 10
 
 embed_graph:
-  enabled: true # if true, will generate node2vec embeddings for nodes
+  enabled: true # if true, will generate node2vec embeddings for nodes <--
   # num_walks: 10
   # walk_length: 40
   # window_size: 2
@@ -125,10 +125,10 @@ embed_graph:
   # random_seed: 597832
 
 umap:
-  enabled: true # if true, will generate UMAP embeddings for nodes
+  enabled: true # if true, will generate UMAP embeddings for nodes <--
 
 snapshots:
-  graphml: true
+  graphml: true #  <--
   raw_entities: false
   top_level_nodes: false
 
