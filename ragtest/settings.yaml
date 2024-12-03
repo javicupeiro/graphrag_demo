@@ -4,26 +4,26 @@ skip_workflows: []
 llm:
   api_key: ${GRAPHRAG_API_KEY}
   type: openai_chat # or azure_openai_chat
-  model: gpt-4o-mini #gpt-4-turbo-preview
+  model: gpt-4o-mini #gpt-4-turbo-preview #gpt-4o
   model_supports_json: true # recommended if this is available for your model.
-  # max_tokens: 4000
+  max_tokens: 2000
   # request_timeout: 180.0
   # api_base: https://<instance>.openai.azure.com
   # api_version: 2024-02-15-preview
   # organization: <organization_id>
   # deployment_name: <azure_model_deployment_name>
-  tokens_per_minute: 150_000 # set a leaky bucket throttle
-  # requests_per_minute: 10_000 # set a leaky bucket throttle
-  # max_retries: 10
-  # max_retry_wait: 10.0
-  # sleep_on_rate_limit_recommendation: true # whether to sleep when azure suggests wait-times
-  # concurrent_requests: 25 # the number of parallel inflight requests that may be made
+  tokens_per_minute: 80_000 # set a leaky bucket throttle
+  requests_per_minute: 500 # set a leaky bucket throttle
+  max_retries: 15
+  max_retry_wait: 10.0
+  sleep_on_rate_limit_recommendation: true # whether to sleep when azure suggests wait-times
+  concurrent_requests: 2 # the number of parallel inflight requests that may be made
   # temperature: 0 # temperature for sampling
   # top_p: 1 # top-p sampling
   # n: 1 # Number of completions to generate
 
 parallelization:
-  stagger: 0.3
+  stagger: 1 # 0.3 Espera más tiempo entre solicitudes para evitar saturar la API
   # num_threads: 50 # the number of threads to use for parallel processing
 
 async_mode: threaded # or asyncio
@@ -117,7 +117,7 @@ cluster_graph:
   max_cluster_size: 10
 
 embed_graph:
-  enabled: true # if true, will generate node2vec embeddings for nodes <--
+  enabled: false # if true, will generate node2vec embeddings for nodes <--
   # num_walks: 10
   # walk_length: 40
   # window_size: 2
@@ -125,7 +125,7 @@ embed_graph:
   # random_seed: 597832
 
 umap:
-  enabled: true # if true, will generate UMAP embeddings for nodes <--
+  enabled: false # if true, will generate UMAP embeddings for nodes <--
 
 snapshots:
   graphml: true #  <--
